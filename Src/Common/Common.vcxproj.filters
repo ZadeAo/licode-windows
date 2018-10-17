@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="OSSupport">
+      <UniqueIdentifier>{d8823383-1250-40c6-b017-280060c6ade8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OSSupport\CriticalSection.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\Errors.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\Event.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\File.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\GZipFile.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\IsThread.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\StackTrace.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp" />
+    <ClCompile Include="Logger.cpp" />
+    <ClCompile Include="LoggerListeners.cpp" />
+    <ClCompile Include="StackWalker.cpp" />
+    <ClCompile Include="StringUtils.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="ThreadPool.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="ByteBuffer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Include\OSSupport\CriticalSection.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\OSSupport\Errors.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\OSSupport\Event.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\OSSupport\File.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\OSSupport\GZipFile.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\OSSupport\IsThread.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\OSSupport\Queue.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\OSSupport\StackTrace.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\Common.h" />
+    <ClInclude Include="..\..\Include\StackWalker.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="..\..\Include\StringUtils.h" />
+    <ClInclude Include="..\..\Include\Logger.h" />
+    <ClInclude Include="..\..\Include\LoggerListeners.h" />
+    <ClInclude Include="..\..\Include\OSSupport\ThreadPool.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\ByteBuffer.h" />
+    <ClInclude Include="..\..\Include\Endianness.h" />
+  </ItemGroup>
+</Project>

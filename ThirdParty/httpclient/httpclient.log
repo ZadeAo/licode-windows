@@ -1,0 +1,25 @@
+﻿生成启动时间为 2016/1/25 10:16:44。
+     1>项目“D:\develop\monitor_all\trunk\client\3rdparty\httpclient\httpclient.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\develop\monitor_all\trunk\client\OutDir\Debug\httpclient.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\develop\monitor_all\trunk\client\OutDir\Debug\httpclient.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\develop\monitor_all\trunk\client\lib\Debug\httpclient.lib" /MACHINE:X86 /DLL D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\base64.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\dll_init.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\file_reader.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\file_writer.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\http_client.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\http_header_parser.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\http_post_file.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\http_request.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\http_response.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\http_response_receiver.obj
+         "D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\proxy_socket .obj"
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\socket_helper.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\streaming_socket.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\url_parser.obj
+         D:\develop\monitor_all\trunk\client\IntDir\httpclient\Debug\util.obj
+            正在创建库 D:\develop\monitor_all\trunk\client\lib\Debug\httpclient.lib 和对象 D:\develop\monitor_all\trunk\client\lib\Debug\httpclient.exp
+         httpclient.vcxproj -> D:\develop\monitor_all\trunk\client\OutDir\Debug\httpclient.dll
+     1>已完成生成项目“D:\develop\monitor_all\trunk\client\3rdparty\httpclient\httpclient.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.84

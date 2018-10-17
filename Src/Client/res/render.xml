@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window mininfo="242,210">
+    <VerticalLayout name="layout_render" bkcolor="#FFFFFFFF" bordercolor="#00808080" inset="1,1,1,1">
+        <Control name="ctrl_video" bkcolor="#FFC0C0C0" />
+        <Container name="Container_bottom" height="28" bkcolor="#FFA6CAF0">
+            <VerticalLayout name="VerticalLayoutUI1" inset="1,1,1,1">
+                <Label name="Label_Name" width="50" height="26" textpadding="5,3,5,3" textcolor="#FF447AA1" disabledtextcolor="#FFA7A6AA" font="1" />
+            </VerticalLayout>
+        </Container>
+    </VerticalLayout>
+</Window>

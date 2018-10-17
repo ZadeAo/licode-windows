@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="UnicodeDebug|Win32">
+      <Configuration>UnicodeDebug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="UnicodeRelease|Win32">
+      <Configuration>UnicodeRelease</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{FC6416CB-EE05-4784-B9A5-55D61FB6DE39}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>launcher</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeDebug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeDebug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeDebug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(ProjectName)\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(ProjectName)\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;NOMINMAX;V8_DEPRECATION_WARNINGS;EXPAT_RELATIVE_PATH;FEATURE_ENABLE_VOICEMAIL;GTEST_RELATIVE_PATH;JSONCPP_RELATIVE_PATH;LOGGING=0;SRTP_RELATIVE_PATH;FEATURE_ENABLE_SSL;FEATURE_ENABLE_PSTN;HAVE_SCTP;HAVE_SRTP;HAVE_WEBRTC_VIDEO;HAVE_WEBRTC_VOICE;WINVER=0x0603;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=1;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;WEBRTC_WIN;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;DYNAMIC_ANNOTATIONS_ENABLED=1;WTF_USE_DYNAMIC_ANNOTATIONS=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SFUChat)\Include;$(SFUChat)\ThirdParty\zlib;$(SFUChat)\ThirdParty\DuiLib;$(SFUChat)\ThirdParty\polarssl\include;$(SFUChat)\ThirdParty\jsoncpp-1.6.5\include;$(WEBRTC13);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(WEBRTC13)\build\$(Configuration);$(WEBRTC13)\build\$(Configuration)\lib;$(SFUChat)\Lib\$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>wmcodecdspuuid.lib;Secur32.lib;dmoguids.lib;Msdmo.lib;libjingle_peerconnection.lib;jsoncpp.lib;rtc_base.lib;webrtc_common.lib;rtc_base_approved.lib;boringssl.lib;expat.lib;libjingle_media.lib;video_render_module.lib;webrtc_utility.lib;audio_coding_module.lib;cng.lib;common_audio.lib;system_wrappers.lib;openmax_dl.lib;common_audio_sse2.lib;audio_encoder_interface.lib;g711.lib;g722.lib;ilbc.lib;isac.lib;audio_decoder_interface.lib;isac_fix.lib;pcm16b.lib;red.lib;webrtc_opus.lib;opus.lib;neteq.lib;media_file.lib;common_video.lib;libyuv.lib;libjpeg.lib;webrtc.lib;bitrate_controller.lib;rtp_rtcp.lib;paced_sender.lib;remote_bitrate_estimator.lib;video_capture_module.lib;video_processing.lib;video_processing_sse2.lib;webrtc_video_coding.lib;webrtc_h264.lib;webrtc_i420.lib;video_coding_utility.lib;webrtc_vp8.lib;libvpx.lib;libvpx_intrinsics_mmx.lib;libvpx_intrinsics_sse2.lib;libvpx_intrinsics_ssse3.lib;libvpx_intrinsics_sse4_1.lib;libvpx_intrinsics_avx2.lib;webrtc_vp9.lib;voice_engine.lib;audio_conference_mixer.lib;audio_processing.lib;audioproc_debug_proto.lib;protobuf_lite.lib;audio_processing_sse2.lib;audio_device.lib;rtc_sound.lib;field_trial_default.lib;metrics_default.lib;rtc_xmllite.lib;rtc_xmpp.lib;rtc_p2p.lib;usrsctplib.lib;video_capture_module_internal_impl.lib;directshow_baseclasses.lib;video_render_module_internal_impl.lib;libjingle_p2p.lib;libsrtp.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <DelayLoadDLLs>dbghelp.dll;dwmapi.dll;shell32.dll;uxtheme.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeDebug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SFUChat)\Include;$(SFUChat)\ThirdParty\zlib;$(SFUChat)\ThirdParty\DuiLib;$(SFUChat)\ThirdParty\polarssl\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SFUChat)\Lib\$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;NOMINMAX;NODEBUG;V8_DEPRECATION_WARNINGS;EXPAT_RELATIVE_PATH;FEATURE_ENABLE_VOICEMAIL;GTEST_RELATIVE_PATH;JSONCPP_RELATIVE_PATH;LOGGING=0;SRTP_RELATIVE_PATH;FEATURE_ENABLE_SSL;FEATURE_ENABLE_PSTN;HAVE_SCTP;HAVE_SRTP;HAVE_WEBRTC_VIDEO;HAVE_WEBRTC_VOICE;WINVER=0x0603;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=1;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;WEBRTC_WIN;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;DYNAMIC_ANNOTATIONS_ENABLED=1;WTF_USE_DYNAMIC_ANNOTATIONS=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SFUChat)\Include;$(SFUChat)\ThirdParty\zlib;$(SFUChat)\ThirdParty\DuiLib;$(SFUChat)\ThirdParty\polarssl\include;$(SFUChat)\ThirdParty\jsoncpp-1.6.5\include;$(WEBRTC13);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>$(WEBRTC13)\build\$(Configuration);$(WEBRTC13)\build\$(Configuration)\lib;$(SFUChat)\Lib\$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>wmcodecdspuuid.lib;Secur32.lib;dmoguids.lib;Msdmo.lib;libjingle_peerconnection.lib;jsoncpp.lib;rtc_base.lib;webrtc_common.lib;rtc_base_approved.lib;boringssl.lib;expat.lib;libjingle_media.lib;video_render_module.lib;webrtc_utility.lib;audio_coding_module.lib;cng.lib;common_audio.lib;system_wrappers.lib;openmax_dl.lib;common_audio_sse2.lib;audio_encoder_interface.lib;g711.lib;g722.lib;ilbc.lib;isac.lib;audio_decoder_interface.lib;isac_fix.lib;pcm16b.lib;red.lib;webrtc_opus.lib;opus.lib;neteq.lib;media_file.lib;common_video.lib;libyuv.lib;libjpeg.lib;webrtc.lib;bitrate_controller.lib;rtp_rtcp.lib;paced_sender.lib;remote_bitrate_estimator.lib;video_capture_module.lib;video_processing.lib;video_processing_sse2.lib;webrtc_video_coding.lib;webrtc_h264.lib;webrtc_i420.lib;video_coding_utility.lib;webrtc_vp8.lib;libvpx.lib;libvpx_intrinsics_mmx.lib;libvpx_intrinsics_sse2.lib;libvpx_intrinsics_ssse3.lib;libvpx_intrinsics_sse4_1.lib;libvpx_intrinsics_avx2.lib;webrtc_vp9.lib;voice_engine.lib;audio_conference_mixer.lib;audio_processing.lib;audioproc_debug_proto.lib;protobuf_lite.lib;audio_processing_sse2.lib;audio_device.lib;rtc_sound.lib;field_trial_default.lib;metrics_default.lib;rtc_xmllite.lib;rtc_xmpp.lib;rtc_p2p.lib;usrsctplib.lib;video_capture_module_internal_impl.lib;directshow_baseclasses.lib;video_render_module_internal_impl.lib;libjingle_p2p.lib;libsrtp.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SFUChat)\ThirdParty\zlib;$(SFUChat)\ThirdParty\DuiLib;$(SFUChat)\ThirdParty\polarssl\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SFUChat)\ThirdParty\zlib;$(SFUChat)\ThirdParty\DuiLib;$(SFUChat)\ThirdParty\polarssl\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SFUChat)\Include;$(SFUChat)\ThirdParty\zlib;$(SFUChat)\ThirdParty\DuiLib;$(SFUChat)\ThirdParty\polarssl\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="aboutMe.cpp" />
+    <ClCompile Include="ByteBuffer.cpp" />
+    <ClCompile Include="conductor.cpp" />
+    <ClCompile Include="ConnectionClient.cpp" />
+    <ClCompile Include="defaults.cpp" />
+    <ClCompile Include="DesktopCapturer.cpp" />
+    <ClCompile Include="func.cpp" />
+    <ClCompile Include="JoinRoom.cpp" />
+    <ClCompile Include="PCObserver.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='UnicodeDebug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='UnicodeRelease|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="IniFile.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainFrame.cpp" />
+    <ClCompile Include="md5.cpp" />
+    <ClCompile Include="Packetizer.cpp" />
+    <ClCompile Include="PolarSSL++\AesCfb128Decryptor.cpp" />
+    <ClCompile Include="PolarSSL++\AesCfb128Encryptor.cpp" />
+    <ClCompile Include="PolarSSL++\BufferedSslContext.cpp" />
+    <ClCompile Include="PolarSSL++\CallbackSslContext.cpp" />
+    <ClCompile Include="PolarSSL++\CryptoKey.cpp" />
+    <ClCompile Include="PolarSSL++\CtrDrbgContext.cpp" />
+    <ClCompile Include="PolarSSL++\EntropyContext.cpp" />
+    <ClCompile Include="PolarSSL++\RsaPrivateKey.cpp" />
+    <ClCompile Include="PolarSSL++\Sha1Checksum.cpp" />
+    <ClCompile Include="PolarSSL++\SslContext.cpp" />
+    <ClCompile Include="PolarSSL++\X509Cert.cpp" />
+    <ClCompile Include="TrayIcon.cpp" />
+    <ClCompile Include="VideoDialog.cpp" />
+    <ClCompile Include="VideoRenderer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="aboutMe.h" />
+    <ClInclude Include="ByteBuffer.h" />
+    <ClInclude Include="conductor.h" />
+    <ClInclude Include="ConnectionClient.h" />
+    <ClInclude Include="defaults.h" />
+    <ClInclude Include="DesktopCapturer.h" />
+    <ClInclude Include="Endianness.h" />
+    <ClInclude Include="flagdefs.h" />
+    <ClInclude Include="func.h" />
+    <ClInclude Include="JoinRoom.h" />
+    <ClInclude Include="PCObserver.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="IniFile.h" />
+    <ClInclude Include="interface.h" />
+    <ClInclude Include="MainFrame.h" />
+    <ClInclude Include="md5.h" />
+    <ClInclude Include="Packetizer.h" />
+    <ClInclude Include="PolarSSL++\AesCfb128Decryptor.h" />
+    <ClInclude Include="PolarSSL++\AesCfb128Encryptor.h" />
+    <ClInclude Include="PolarSSL++\BufferedSslContext.h" />
+    <ClInclude Include="PolarSSL++\CallbackSslContext.h" />
+    <ClInclude Include="PolarSSL++\CryptoKey.h" />
+    <ClInclude Include="PolarSSL++\CtrDrbgContext.h" />
+    <ClInclude Include="PolarSSL++\EntropyContext.h" />
+    <ClInclude Include="PolarSSL++\RsaPrivateKey.h" />
+    <ClInclude Include="PolarSSL++\Sha1Checksum.h" />
+    <ClInclude Include="PolarSSL++\SslContext.h" />
+    <ClInclude Include="PolarSSL++\X509Cert.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="setdebugnew.h" />
+    <ClInclude Include="SettingsRepositoryInterface.h" />
+    <ClInclude Include="TrayIcon.h" />
+    <ClInclude Include="VideoDialog.h" />
+    <ClInclude Include="VideoRenderer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Client.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ui.zip" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

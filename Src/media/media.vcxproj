@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{52EC2966-EF28-4683-A104-C7508D3F9C07}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>core</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;MEDIA_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>.\;$(BOOST);$(SFUChat)\Include;$(SFUChat)\ThirdParty\srtp\include;$(SFUChat)\ThirdParty\libnice-0.1.4;$(SFUChat)\ThirdParty\srtp\crypto\include;$(SFUChat)\ThirdParty\libnice-0.1.4\agent;$(SFUChat)\ThirdParty\libnice-0.1.4\glib\include\glib-2.0;$(SFUChat)\ThirdParty\libnice-0.1.4\glib\lib\glib-2.0\include;$(SFUChat)\ThirdParty\libav-11.1\include;$(SFUChat)\ThirdParty\log4cxx\include;$(SFUChat)\ThirdParty\OpenSSL\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DisableSpecificWarnings>4244;4800;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <ForcedIncludeFiles>stdafx.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <AdditionalLibraryDirectories>$(BOOST)stage\lib;$(SFUChat)\Lib\$(Configuration)\;$(SFUChat)\ThirdParty\OpenSSL\lib\VC;$(SFUChat)\ThirdParty\log4cxx\lib\$(Configuration)\;$(SFUChat)\ThirdParty\libnice-0.1.4\glib\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>libnice.lib;srtp.lib;Ws2_32.lib;glib-2.0.lib;gobject-2.0.lib;gio-2.0.lib;gthread-2.0.lib;Common.lib;libeay32MDd.lib;ssleay32MDd.lib;log4cxx.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImportLibrary>$(SFUChat)\Lib\$(Configuration)\$(TargetName).lib</ImportLibrary>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;MEDIA_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>.\;$(BOOST);$(SFUChat)\Include;$(SFUChat)\ThirdParty\srtp\include;$(SFUChat)\ThirdParty\libnice-0.1.4;$(SFUChat)\ThirdParty\srtp\crypto\include;$(SFUChat)\ThirdParty\libnice-0.1.4\agent;$(SFUChat)\ThirdParty\libnice-0.1.4\glib\include\glib-2.0;$(SFUChat)\ThirdParty\libnice-0.1.4\glib\lib\glib-2.0\include;$(SFUChat)\ThirdParty\libav-11.1\include;$(SFUChat)\ThirdParty\log4cxx\include;$(SFUChat)\ThirdParty\OpenSSL\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DisableSpecificWarnings>4244;4800;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <ForcedIncludeFiles>stdafx.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>$(BOOST)stage\lib;$(SFUChat)\Lib\$(Configuration)\;$(SFUChat)\ThirdParty\OpenSSL\lib\VC;$(SFUChat)\ThirdParty\log4cxx\lib\$(Configuration)\;$(SFUChat)\ThirdParty\libnice-0.1.4\glib\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>libnice.lib;srtp.lib;Ws2_32.lib;glib-2.0.lib;gobject-2.0.lib;gio-2.0.lib;gthread-2.0.lib;Common.lib;libeay32MD.lib;ssleay32MD.lib;log4cxx.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImportLibrary>$(SFUChat)\Lib\$(Configuration)\$(TargetName).lib</ImportLibrary>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+      <AdditionalOptions>/SAFESEH:NO %(AdditionalOptions)</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Include\Media.h" />
+    <ClInclude Include="DtlsTransport.h" />
+    <ClInclude Include="dtls\bf_dwrap.h" />
+    <ClInclude Include="dtls\DtlsSocket.h" />
+    <ClInclude Include="logger.h" />
+    <ClInclude Include="MediaDefinitions.h" />
+    <ClInclude Include="NiceConnection.h" />
+    <ClInclude Include="OneToManyProcessor.h" />
+    <ClInclude Include="rtp\RtcpAggregator.h" />
+    <ClInclude Include="rtp\RtcpForwarder.h" />
+    <ClInclude Include="rtp\RtcpProcessor.h" />
+    <ClInclude Include="rtp\RtpExtensionProcessor.h" />
+    <ClInclude Include="rtp\RtpHeaders.h" />
+    <ClInclude Include="rtp\rtppacketqueue.h" />
+    <ClInclude Include="rtp\RtpSink.h" />
+    <ClInclude Include="rtp\RtpSource.h" />
+    <ClInclude Include="rtp\RtpVP8Fragmenter.h" />
+    <ClInclude Include="rtp\RtpVP8Parser.h" />
+    <ClInclude Include="rtp\webrtc\fec_private_tables_bursty.h" />
+    <ClInclude Include="rtp\webrtc\fec_private_tables_random.h" />
+    <ClInclude Include="rtp\webrtc\fec_receiver_impl.h" />
+    <ClInclude Include="rtp\webrtc\forward_error_correction.h" />
+    <ClInclude Include="rtp\webrtc\forward_error_correction_internal.h" />
+    <ClInclude Include="rtp\webrtc\rtp_utility.h" />
+    <ClInclude Include="rtp\webrtc\scoped_refptr.h" />
+    <ClInclude Include="SdpInfo.h" />
+    <ClInclude Include="SrtpChannel.h" />
+    <ClInclude Include="Stats.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="StringUtil.h" />
+    <ClInclude Include="Transport.h" />
+    <ClInclude Include="WebRtcConnection.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DtlsTransport.cpp" />
+    <ClCompile Include="dtls\bf_dwrap.c">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+      <ForcedIncludeFiles Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </ForcedIncludeFiles>
+      <ForcedIncludeFiles Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </ForcedIncludeFiles>
+    </ClCompile>
+    <ClCompile Include="dtls\DtlsClient.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="dtls\DtlsSocket.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="media.cpp" />
+    <ClCompile Include="NiceConnection.cpp" />
+    <ClCompile Include="OneToManyProcessor.cpp" />
+    <ClCompile Include="rtp\RtcpAggregator.cpp" />
+    <ClCompile Include="rtp\RtcpForwarder.cpp" />
+    <ClCompile Include="rtp\RtpExtensionProcessor.cpp" />
+    <ClCompile Include="rtp\RtpPacketQueue.cpp" />
+    <ClCompile Include="rtp\RtpSink.cpp" />
+    <ClCompile Include="rtp\RtpSource.cpp" />
+    <ClCompile Include="rtp\RtpVP8Fragmenter.cpp" />
+    <ClCompile Include="rtp\RtpVP8Parser.cpp" />
+    <ClCompile Include="rtp\webrtc\fec_receiver_impl.cc" />
+    <ClCompile Include="rtp\webrtc\forward_error_correction.cc" />
+    <ClCompile Include="rtp\webrtc\forward_error_correction_internal.cc" />
+    <ClCompile Include="rtp\webrtc\rtp_utility.cc" />
+    <ClCompile Include="SdpInfo.cpp" />
+    <ClCompile Include="SrtpChannel.cpp" />
+    <ClCompile Include="Stats.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="StringUtil.cpp" />
+    <ClCompile Include="WebRtcConnection.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

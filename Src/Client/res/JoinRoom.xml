@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="320,240" mininfo="320,240" maxinfo="320,240" roundcorner="5,5">
+    <Font name="微软雅黑" size="14" bold="true" italic="false" />
+    <Font name="微软雅黑" size="12" bold="false" italic="false" />
+    <Font name="微软雅黑" size="12" bold="false" italic="false" default="true" />
+    <VerticalLayout name="bg" bkimage="file=&apos;bg.bmp&apos; corner=&apos;5,5,5,5&apos;" bkcolor="#FFD1E8F5" bkcolor2="#FFC6E0F1" bordercolor="#FF768D9B" inset="1,1,1,1">
+        <HorizontalLayout name="HorizontalLayoutUI1" height="24">
+            <HorizontalLayout name="HorizontalLayoutUI2" height="24">
+                <Container name="ContainerUI1" width="8" height="24" bkimage="file=&apos;icon.png&apos; source=&apos;0,0,16,16&apos; dest=&apos;5,4,21,20&apos; " />
+                <Text name="Lable_Title" text="加入房间" height="24" textpadding="0,6,0,0" textcolor="#FF447AA1" disabledtextcolor="#FFA7A6AA" font="1" align="wrap" />
+            </HorizontalLayout>
+            <HorizontalLayout name="HorizontalLayoutUI3" width="45">
+                <Button name="closebtn" maxheight="17" maxwidth="45" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;sys_dlg_close.png&apos; source=&apos;90,0,135,17&apos;" hotimage="file=&apos;sys_dlg_close.png&apos; source=&apos;45,0,90,17&apos;" pushedimage="file=&apos;sys_dlg_close.png&apos; source=&apos;0,0,45,17&apos;" />
+            </HorizontalLayout>
+        </HorizontalLayout>
+        <VerticalLayout name="VerticalLayoutUI1" height="50" />
+        <VerticalLayout name="VerticalLayoutUI3" height="50">
+            <HorizontalLayout name="HorizontalLayoutUI4" height="30">
+                <Container name="ContainerUI2" width="20" height="30" />
+                <Label name="label_server" text="服务器：" width="50" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+                <Edit name="edit_server" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+                <Container name="ContainerUI3" width="20" height="30" />
+            </HorizontalLayout>
+            <Container name="ContainerUI4" height="20" />
+        </VerticalLayout>
+        <VerticalLayout name="VerticalLayoutUI2">
+            <HorizontalLayout name="HorizontalLayoutUI4" height="30">
+                <Container name="ContainerUI2" width="20" height="30" />
+                <Label name="label_room" text="房间号：" width="50" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+                <Edit name="edit_room" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+                <Container name="ContainerUI3" width="20" height="30" />
+            </HorizontalLayout>
+            <Container name="ContainerUI4" height="20" />
+            <HorizontalLayout name="HorizontalLayoutUI5">
+                <HorizontalLayout name="HorizontalLayoutUI6" height="30">
+                    <Container name="ContainerUI5" />
+                    <Button name="btn_join" text="加入" width="80" height="30" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;btn_normal.png&apos; corner=&apos;5,5,5,5&apos;" hotimage="file=&apos;btn_focus.png&apos; corner=&apos;5,5,5,5&apos;" pushedimage="file=&apos;btn_down.png&apos; corner=&apos;5,5,5,5&apos;" />
+                    <Container name="ContainerUI6" />
+                </HorizontalLayout>
+            </HorizontalLayout>
+        </VerticalLayout>
+    </VerticalLayout>
+</Window>

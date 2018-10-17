@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="320,240" mininfo="320,240" maxinfo="320,240" roundcorner="5,5">
+    <Font name="微软雅黑" size="14" bold="true" italic="false" />
+    <Font name="微软雅黑" size="12" bold="false" italic="false" />
+    <Font name="微软雅黑" size="12" bold="false" italic="false" default="true" />
+    <VerticalLayout name="bg" bkimage="file=&apos;bg.bmp&apos; corner=&apos;5,5,5,5&apos;" bkcolor="#FFD1E8F5" bkcolor2="#FFC6E0F1" bordercolor="#FF768D9B" inset="1,1,1,1">
+        <HorizontalLayout name="HorizontalLayoutUI1" height="24">
+            <HorizontalLayout name="HorizontalLayoutUI2" height="24">
+                <Container name="ContainerUI1" width="8" height="22" bkimage="file=&apos;icon.png&apos; source=&apos;0,0,16,16&apos; dest=&apos;5,4,21,20&apos; " />
+                <Text name="Lable_Title" text="关于" width="35" height="24" textpadding="2,6,0,0" textcolor="#FF447AA1" disabledtextcolor="#FFA7A6AA" font="1" align="wrap" />
+            </HorizontalLayout>
+            <HorizontalLayout name="HorizontalLayoutUI3" width="45">
+                <Button name="closebtn" maxheight="17" maxwidth="45" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;sys_dlg_close.png&apos; source=&apos;90,0,135,17&apos;" hotimage="file=&apos;sys_dlg_close.png&apos; source=&apos;45,0,90,17&apos;" pushedimage="file=&apos;sys_dlg_close.png&apos; source=&apos;0,0,45,17&apos;" />
+            </HorizontalLayout>
+        </HorizontalLayout>
+        <VerticalLayout name="VerticalLayoutUI1" height="20" />
+        <HorizontalLayout name="HorizontalLayoutUI4" height="40">
+            <Control name="ControlUI1" />
+            <Control name="Control_logo" width="243" bkimage="logo.png" />
+            <Control name="ControlUI3" />
+        </HorizontalLayout>
+        <VerticalLayout name="VerticalLayoutUI2" inset="0,12,0,0">
+            <Label name="label_version" text="版本号：V1.0 beta" height="26" textcolor="#0057C0FF" disabledtextcolor="#FFA7A6AA" font="1" align="center" />
+            <Label name="label_auther" text="作者：{u}{l}钧钧{/l}{/u}" height="26" textcolor="#0000C0FF" disabledtextcolor="#FFA7A6AA" font="1" showhtml="true" align="center" />
+            <Label name="label_email" text="邮箱：{u}{l}345252622@qq.com{/l}{/u}" height="26" textcolor="#0000C0FF" disabledtextcolor="#FFA7A6AA" font="1" showhtml="true" align="center" />
+            <Button name="btn_web" text="{u}{l}官方博客{/l}{/u}" height="26" textcolor="#00C00096" disabledtextcolor="#FFA7A6AA" font="0" showhtml="true" align="center" />
+        </VerticalLayout>
+    </VerticalLayout>
+</Window>

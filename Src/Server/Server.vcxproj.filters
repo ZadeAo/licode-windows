@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{12D433C4-67F7-4812-BC7C-1F6F67A15D95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protocol">
+      <UniqueIdentifier>{4C36FFA9-E92A-4317-BCF6-1F221F4CED75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PolarSSL++">
+      <UniqueIdentifier>{C70DB957-EA8B-4F7B-89F4-840664A3EC43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OSSupport">
+      <UniqueIdentifier>{47fcb65b-2ebc-43a1-ac94-6716170bbf17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rooms">
+      <UniqueIdentifier>{51355c69-ce9c-4868-ab2a-8d1c5943b861}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PolarSSL++\AesCfb128Decryptor.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\AesCfb128Encryptor.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\BlockingSslClientSocket.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\BufferedSslContext.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\CallbackSslContext.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\CryptoKey.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\CtrDrbgContext.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\EntropyContext.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\RsaPrivateKey.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\Sha1Checksum.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\SslContext.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarSSL++\X509Cert.cpp">
+      <Filter>PolarSSL++</Filter>
+    </ClCompile>
+    <ClCompile Include="Protocol\Authenticator.cpp">
+      <Filter>Protocol</Filter>
+    </ClCompile>
+    <ClCompile Include="Protocol\cProtocol_impl.cpp">
+      <Filter>Protocol</Filter>
+    </ClCompile>
+    <ClCompile Include="Protocol\Packetizer.cpp">
+      <Filter>Protocol</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientHandle.cpp" />
+    <ClCompile Include="CommandOutput.cpp" />
+    <ClCompile Include="FastRandom.cpp" />
+    <ClCompile Include="func.cpp" />
+    <ClCompile Include="IniFile.cpp" />
+    <ClCompile Include="LeakFinder.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MemorySettingsRepository.cpp" />
+    <ClCompile Include="OverridesSettingsRepository.cpp" />
+    <ClCompile Include="Root.cpp" />
+    <ClCompile Include="Server.cpp" />
+    <ClCompile Include="StringCompression.cpp" />
+    <ClCompile Include="md5.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="OSSupport\HostnameLookup.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\IPLookup.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\NetworkInterfaceEnum.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\NetworkSingleton.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\ServerHandleImpl.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\Socket.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\TCPLinkImpl.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="OSSupport\UDPEndpointImpl.cpp">
+      <Filter>OSSupport</Filter>
+    </ClCompile>
+    <ClCompile Include="Channel\Peer.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="Channel\Room.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="Channel\Manager.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PolarSSL++\AesCfb128Decryptor.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\AesCfb128Encryptor.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\BlockingSslClientSocket.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\BufferedSslContext.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\CallbackSslContext.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\CryptoKey.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\CtrDrbgContext.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\EntropyContext.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\RsaPrivateKey.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\Sha1Checksum.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\SslContext.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarSSL++\X509Cert.h">
+      <Filter>PolarSSL++</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol\Authenticator.h">
+      <Filter>Protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol\cProtocol_impl.h">
+      <Filter>Protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol\Packetizer.h">
+      <Filter>Protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientHandle.h" />
+    <ClInclude Include="CommandOutput.h" />
+    <ClInclude Include="FastRandom.h" />
+    <ClInclude Include="func.h" />
+    <ClInclude Include="IniFile.h" />
+    <ClInclude Include="LeakFinder.h" />
+    <ClInclude Include="LinearUpscale.h" />
+    <ClInclude Include="MemorySettingsRepository.h" />
+    <ClInclude Include="OverridesSettingsRepository.h" />
+    <ClInclude Include="Root.h" />
+    <ClInclude Include="Server.h" />
+    <ClInclude Include="setdebugnew.h" />
+    <ClInclude Include="SettingsRepositoryInterface.h" />
+    <ClInclude Include="StringCompression.h" />
+    <ClInclude Include="md5.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="OSSupport\HostnameLookup.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="OSSupport\IPLookup.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="OSSupport\Network.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="OSSupport\NetworkSingleton.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="OSSupport\ServerHandleImpl.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="OSSupport\Socket.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="OSSupport\TCPLinkImpl.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="OSSupport\UDPEndpointImpl.h">
+      <Filter>OSSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol\Protocol.h" />
+    <ClInclude Include="Channel\Peer.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="Channel\Room.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="Channel\Manager.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resources\MCServer.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

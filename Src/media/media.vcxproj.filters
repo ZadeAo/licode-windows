@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="media.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="SdpInfo.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Stats.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="NiceConnection.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="WebRtcConnection.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="DtlsTransport.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="OneToManyProcessor.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="SrtpChannel.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="dtls\bf_dwrap.c">
+      <Filter>Src\dtls</Filter>
+    </ClCompile>
+    <ClCompile Include="dtls\DtlsClient.cpp">
+      <Filter>Src\dtls</Filter>
+    </ClCompile>
+    <ClCompile Include="dtls\DtlsSocket.cpp">
+      <Filter>Src\dtls</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\webrtc\fec_receiver_impl.cc">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\webrtc\forward_error_correction.cc">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\webrtc\forward_error_correction_internal.cc">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\webrtc\rtp_utility.cc">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="StringUtil.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\RtcpAggregator.cpp">
+      <Filter>Src\rtp</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\RtcpForwarder.cpp">
+      <Filter>Src\rtp</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\RtpExtensionProcessor.cpp">
+      <Filter>Src\rtp</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\RtpPacketQueue.cpp">
+      <Filter>Src\rtp</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\RtpSink.cpp">
+      <Filter>Src\rtp</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\RtpSource.cpp">
+      <Filter>Src\rtp</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\RtpVP8Fragmenter.cpp">
+      <Filter>Src\rtp</Filter>
+    </ClCompile>
+    <ClCompile Include="rtp\RtpVP8Parser.cpp">
+      <Filter>Src\rtp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MediaDefinitions.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="SdpInfo.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Stats.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="NiceConnection.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="DtlsTransport.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="SrtpChannel.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Transport.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="dtls\bf_dwrap.h">
+      <Filter>Src\dtls</Filter>
+    </ClInclude>
+    <ClInclude Include="dtls\DtlsSocket.h">
+      <Filter>Src\dtls</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\webrtc\fec_private_tables_bursty.h">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\webrtc\fec_private_tables_random.h">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\webrtc\fec_receiver_impl.h">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\webrtc\forward_error_correction.h">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\webrtc\forward_error_correction_internal.h">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\webrtc\rtp_utility.h">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\webrtc\scoped_refptr.h">
+      <Filter>Src\rtp\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Include\Media.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="OneToManyProcessor.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="WebRtcConnection.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="logger.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="StringUtil.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtcpAggregator.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtcpForwarder.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtcpProcessor.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtpExtensionProcessor.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtpHeaders.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\rtppacketqueue.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtpSink.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtpSource.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtpVP8Fragmenter.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+    <ClInclude Include="rtp\RtpVP8Parser.h">
+      <Filter>Src\rtp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Src">
+      <UniqueIdentifier>{9657e0c4-a4ad-4998-a9e1-85ab7aca4b33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\rtp">
+      <UniqueIdentifier>{cd8205b9-2fdf-4390-9992-8a7baf3ce48e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\dtls">
+      <UniqueIdentifier>{8f0871e9-f121-45d8-a1c7-05e3df696fab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\rtp\webrtc">
+      <UniqueIdentifier>{ded9832d-6f21-4cbb-ba75-25ce376980bc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

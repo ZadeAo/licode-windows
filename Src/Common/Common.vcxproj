@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ByteBuffer.cpp" />
+    <ClCompile Include="common.cpp" />
+    <ClCompile Include="Logger.cpp" />
+    <ClCompile Include="LoggerListeners.cpp" />
+    <ClCompile Include="OSSupport\CriticalSection.cpp" />
+    <ClCompile Include="OSSupport\Errors.cpp" />
+    <ClCompile Include="OSSupport\Event.cpp" />
+    <ClCompile Include="OSSupport\File.cpp" />
+    <ClCompile Include="OSSupport\GZipFile.cpp" />
+    <ClCompile Include="OSSupport\IsThread.cpp" />
+    <ClCompile Include="OSSupport\StackTrace.cpp" />
+    <ClCompile Include="StackWalker.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="StringUtils.cpp" />
+    <ClCompile Include="ThreadPool.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Include\ByteBuffer.h" />
+    <ClInclude Include="..\..\Include\Common.h" />
+    <ClInclude Include="..\..\Include\Endianness.h" />
+    <ClInclude Include="..\..\Include\Logger.h" />
+    <ClInclude Include="..\..\Include\LoggerListeners.h" />
+    <ClInclude Include="..\..\Include\OSSupport\CriticalSection.h" />
+    <ClInclude Include="..\..\Include\OSSupport\Errors.h" />
+    <ClInclude Include="..\..\Include\OSSupport\Event.h" />
+    <ClInclude Include="..\..\Include\OSSupport\File.h" />
+    <ClInclude Include="..\..\Include\OSSupport\GZipFile.h" />
+    <ClInclude Include="..\..\Include\OSSupport\IsThread.h" />
+    <ClInclude Include="..\..\Include\OSSupport\Queue.h" />
+    <ClInclude Include="..\..\Include\OSSupport\StackTrace.h" />
+    <ClInclude Include="..\..\Include\OSSupport\ThreadPool.h" />
+    <ClInclude Include="..\..\Include\StackWalker.h" />
+    <ClInclude Include="..\..\Include\StringUtils.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{724A6F4F-5D3F-45B5-8F85-16DB5EE9A59B}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>core</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir>$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;COMMON_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>.;$(BOOST);$(SFUChat)\Include;$(SFUChat)\Include\OSSupport;$(SFUChat)\ThirdParty;$(SFUChat)\ThirdParty\srtp\include;$(SFUChat)\ThirdParty\libnice-0.1.4;$(SFUChat)\ThirdParty\srtp\crypto\include;$(SFUChat)\ThirdParty\libnice-0.1.4\agent;$(SFUChat)\ThirdParty\glib2.0\include\glib-2.0;$(SFUChat)\ThirdParty\glib2.0\lib\glib-2.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(BOOST)stage\lib;$(SFUChat)\Lib\$(Configuration)\;$(SFUChat)\ThirdParty\glib2.0\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImportLibrary>$(SFUChat)\Lib\$(Configuration)\$(TargetName).lib</ImportLibrary>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;COMMON_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>.;$(BOOST);$(SFUChat)\Include;$(SFUChat)\Include\OSSupport;$(SFUChat)\ThirdParty;$(SFUChat)\ThirdParty\srtp\include;$(SFUChat)\ThirdParty\libnice-0.1.4;$(SFUChat)\ThirdParty\srtp\crypto\include;$(SFUChat)\ThirdParty\libnice-0.1.4\agent;$(SFUChat)\ThirdParty\glib2.0\include\glib-2.0;$(SFUChat)\ThirdParty\glib2.0\lib\glib-2.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>$(BOOST)stage\lib;$(SFUChat)\Lib\$(Configuration)\;$(SFUChat)\ThirdParty\glib2.0\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImportLibrary>$(SFUChat)\Lib\$(Configuration)\$(TargetName).lib</ImportLibrary>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{98EA0543-3270-4C5D-A339-BEAFCFFC2A4E}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>Server</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120_xp</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120_xp</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(ProjectName)</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SFUChat)\OutDir\$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SFUChat)\IntDir\$(ProjectName)\$(Configuration)\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(ProjectName)</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>.;../media;$(SFUChat)\Include;$(SFUChat)\Include\OSSupport;$(SFUChat)\ThirdParty;$(SFUChat)\ThirdParty\TCLAP\include;$(SFUChat)\ThirdParty\libevent\include;$(SFUChat)\ThirdParty\jsoncpp-1.6.5\include;$(SFUChat)\ThirdParty\polarssl\include;$(SFUChat)\ThirdParty\libav-11.1\include;$(BOOST);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;XML_STATIC;LUA_USE_APICHECK;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <DisableSpecificWarnings>4275;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;XML_STATIC;LUA_USE_APICHECK;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\develop\monitor_all\trunk\server\lib\libevent\include;D:\develop\monitor_all\trunk\server\src\..\lib;D:\develop\monitor_all\trunk\server\src\..\lib\jsoncpp\include;D:\develop\monitor_all\trunk\server\src\..\lib\polarssl\include;D:\develop\monitor_all\trunk\server\src\..\lib\libevent\include;D:\develop\monitor_all\trunk\server\src\.;D:\develop\monitor_all\trunk\server\src\..\lib\SQLiteCpp\include;D:\develop\monitor_all\trunk\server\src\..\lib\TCLAP\include;D:\develop\monitor_all\trunk\server\src;D:\develop\monitor_all\trunk\server\lib\jsoncpp\src\lib_json\..\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\develop\monitor_all\trunk\server\lib\libevent\include;D:\develop\monitor_all\trunk\server\src\..\lib;D:\develop\monitor_all\trunk\server\src\..\lib\jsoncpp\include;D:\develop\monitor_all\trunk\server\src\..\lib\polarssl\include;D:\develop\monitor_all\trunk\server\src\..\lib\libevent\include;D:\develop\monitor_all\trunk\server\src\.;D:\develop\monitor_all\trunk\server\src\..\lib\SQLiteCpp\include;D:\develop\monitor_all\trunk\server\src\..\lib\TCLAP\include;D:\develop\monitor_all\trunk\server\src;D:\develop\monitor_all\trunk\server\lib\jsoncpp\src\lib_json\..\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalLibraryDirectories>$(SFUChat)\Lib\$(Configuration);$(SFUChat)\ThirdParty\MYSQL\lib;$(SFUChat)\ThirdParty\log4cxx\lib\$(Configuration)\;$(BOOST)stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <SubSystem>Console</SubSystem>
+      <Version>
+      </Version>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalDependencies>jsoncpp.lib;zlib.lib;mbedtls.lib;event_core.lib;event_extra.lib;Psapi.lib;Common.lib;Media.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>.;../media;$(SFUChat)\Include;$(SFUChat)\Include\OSSupport;$(SFUChat)\ThirdParty;$(SFUChat)\ThirdParty\TCLAP\include;$(SFUChat)\ThirdParty\libevent\include;$(SFUChat)\ThirdParty\jsoncpp-1.6.5\include;$(SFUChat)\ThirdParty\polarssl\include;$(SFUChat)\ThirdParty\libav-11.1\include;$(BOOST);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <WholeProgramOptimization>true</WholeProgramOptimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;XML_STATIC;LUA_USE_APICHECK;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <DisableSpecificWarnings>4275;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;XML_STATIC;LUA_USE_APICHECK;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\develop\monitor_all\trunk\server\lib\libevent\include;D:\develop\monitor_all\trunk\server\src\..\lib;D:\develop\monitor_all\trunk\server\src\..\lib\jsoncpp\include;D:\develop\monitor_all\trunk\server\src\..\lib\polarssl\include;D:\develop\monitor_all\trunk\server\src\..\lib\libevent\include;D:\develop\monitor_all\trunk\server\src\.;D:\develop\monitor_all\trunk\server\src\..\lib\SQLiteCpp\include;D:\develop\monitor_all\trunk\server\src\..\lib\TCLAP\include;D:\develop\monitor_all\trunk\server\src;D:\develop\monitor_all\trunk\server\lib\jsoncpp\src\lib_json\..\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\develop\monitor_all\trunk\server\lib\libevent\include;D:\develop\monitor_all\trunk\server\src\..\lib;D:\develop\monitor_all\trunk\server\src\..\lib\jsoncpp\include;D:\develop\monitor_all\trunk\server\src\..\lib\polarssl\include;D:\develop\monitor_all\trunk\server\src\..\lib\libevent\include;D:\develop\monitor_all\trunk\server\src\.;D:\develop\monitor_all\trunk\server\src\..\lib\SQLiteCpp\include;D:\develop\monitor_all\trunk\server\src\..\lib\TCLAP\include;D:\develop\monitor_all\trunk\server\src;D:\develop\monitor_all\trunk\server\lib\jsoncpp\src\lib_json\..\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalLibraryDirectories>$(SFUChat)\Lib\$(Configuration);$(SFUChat)\ThirdParty\MYSQL\lib;$(SFUChat)\ThirdParty\log4cxx\lib\$(Configuration)\;$(BOOST)stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
+      <SubSystem>Console</SubSystem>
+      <Version>
+      </Version>
+      <AdditionalDependencies>jsoncpp.lib;zlib.lib;mbedtls.lib;event_core.lib;event_extra.lib;Psapi.lib;Common.lib;Media.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Channel\Room.cpp" />
+    <ClCompile Include="Channel\Manager.cpp" />
+    <ClCompile Include="Channel\Peer.cpp" />
+    <ClCompile Include="ClientHandle.cpp" />
+    <ClCompile Include="CommandOutput.cpp" />
+    <ClCompile Include="FastRandom.cpp" />
+    <ClCompile Include="func.cpp" />
+    <ClCompile Include="IniFile.cpp" />
+    <ClCompile Include="LeakFinder.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="md5.cpp" />
+    <ClCompile Include="MemorySettingsRepository.cpp" />
+    <ClCompile Include="OSSupport\HostnameLookup.cpp" />
+    <ClCompile Include="OSSupport\IPLookup.cpp" />
+    <ClCompile Include="OSSupport\NetworkInterfaceEnum.cpp" />
+    <ClCompile Include="OSSupport\NetworkSingleton.cpp" />
+    <ClCompile Include="OSSupport\ServerHandleImpl.cpp" />
+    <ClCompile Include="OSSupport\Socket.cpp" />
+    <ClCompile Include="OSSupport\TCPLinkImpl.cpp" />
+    <ClCompile Include="OSSupport\UDPEndpointImpl.cpp" />
+    <ClCompile Include="OverridesSettingsRepository.cpp" />
+    <ClCompile Include="PolarSSL++\AesCfb128Decryptor.cpp" />
+    <ClCompile Include="PolarSSL++\AesCfb128Encryptor.cpp" />
+    <ClCompile Include="PolarSSL++\BlockingSslClientSocket.cpp" />
+    <ClCompile Include="PolarSSL++\BufferedSslContext.cpp" />
+    <ClCompile Include="PolarSSL++\CallbackSslContext.cpp" />
+    <ClCompile Include="PolarSSL++\CryptoKey.cpp" />
+    <ClCompile Include="PolarSSL++\CtrDrbgContext.cpp" />
+    <ClCompile Include="PolarSSL++\EntropyContext.cpp" />
+    <ClCompile Include="PolarSSL++\RsaPrivateKey.cpp" />
+    <ClCompile Include="PolarSSL++\Sha1Checksum.cpp" />
+    <ClCompile Include="PolarSSL++\SslContext.cpp" />
+    <ClCompile Include="PolarSSL++\X509Cert.cpp" />
+    <ClCompile Include="Protocol\Authenticator.cpp" />
+    <ClCompile Include="Protocol\cProtocol_impl.cpp" />
+    <ClCompile Include="Protocol\Packetizer.cpp" />
+    <ClCompile Include="Root.cpp" />
+    <ClCompile Include="Server.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="StringCompression.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Channel\Room.h" />
+    <ClInclude Include="Channel\Manager.h" />
+    <ClInclude Include="Channel\Peer.h" />
+    <ClInclude Include="ClientHandle.h" />
+    <ClInclude Include="CommandOutput.h" />
+    <ClInclude Include="FastRandom.h" />
+    <ClInclude Include="func.h" />
+    <ClInclude Include="IniFile.h" />
+    <ClInclude Include="LeakFinder.h" />
+    <ClInclude Include="LinearUpscale.h" />
+    <ClInclude Include="md5.h" />
+    <ClInclude Include="MemorySettingsRepository.h" />
+    <ClInclude Include="OSSupport\HostnameLookup.h" />
+    <ClInclude Include="OSSupport\IPLookup.h" />
+    <ClInclude Include="OSSupport\Network.h" />
+    <ClInclude Include="OSSupport\NetworkSingleton.h" />
+    <ClInclude Include="OSSupport\ServerHandleImpl.h" />
+    <ClInclude Include="OSSupport\Socket.h" />
+    <ClInclude Include="OSSupport\TCPLinkImpl.h" />
+    <ClInclude Include="OSSupport\UDPEndpointImpl.h" />
+    <ClInclude Include="OverridesSettingsRepository.h" />
+    <ClInclude Include="PolarSSL++\AesCfb128Decryptor.h" />
+    <ClInclude Include="PolarSSL++\AesCfb128Encryptor.h" />
+    <ClInclude Include="PolarSSL++\BlockingSslClientSocket.h" />
+    <ClInclude Include="PolarSSL++\BufferedSslContext.h" />
+    <ClInclude Include="PolarSSL++\CallbackSslContext.h" />
+    <ClInclude Include="PolarSSL++\CryptoKey.h" />
+    <ClInclude Include="PolarSSL++\CtrDrbgContext.h" />
+    <ClInclude Include="PolarSSL++\EntropyContext.h" />
+    <ClInclude Include="PolarSSL++\RsaPrivateKey.h" />
+    <ClInclude Include="PolarSSL++\Sha1Checksum.h" />
+    <ClInclude Include="PolarSSL++\SslContext.h" />
+    <ClInclude Include="PolarSSL++\X509Cert.h" />
+    <ClInclude Include="Protocol\Authenticator.h" />
+    <ClInclude Include="Protocol\cProtocol_impl.h" />
+    <ClInclude Include="Protocol\Packetizer.h" />
+    <ClInclude Include="Protocol\Protocol.h" />
+    <ClInclude Include="Root.h" />
+    <ClInclude Include="Server.h" />
+    <ClInclude Include="setdebugnew.h" />
+    <ClInclude Include="SettingsRepositoryInterface.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="StringCompression.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resources\MCServer.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
