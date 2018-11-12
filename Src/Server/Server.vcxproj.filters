@@ -68,7 +68,6 @@
     <ClCompile Include="FastRandom.cpp" />
     <ClCompile Include="func.cpp" />
     <ClCompile Include="IniFile.cpp" />
-    <ClCompile Include="LeakFinder.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MemorySettingsRepository.cpp" />
     <ClCompile Include="OverridesSettingsRepository.cpp" />
@@ -162,7 +161,6 @@
     <ClInclude Include="FastRandom.h" />
     <ClInclude Include="func.h" />
     <ClInclude Include="IniFile.h" />
-    <ClInclude Include="LeakFinder.h" />
     <ClInclude Include="LinearUpscale.h" />
     <ClInclude Include="MemorySettingsRepository.h" />
     <ClInclude Include="OverridesSettingsRepository.h" />

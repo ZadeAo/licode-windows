@@ -465,7 +465,7 @@ copy ..\..\..\gio\gschema.dtd $(CopyDir)\share\glib-2.0\schemas
       <ForcedIncludeFiles>msvc_recommended_pragmas.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>intl.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>libintl.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>$(GlibEtcInstallRoot)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
     <PreBuildEvent>
