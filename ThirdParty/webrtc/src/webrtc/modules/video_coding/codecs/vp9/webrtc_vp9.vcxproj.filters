@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\vp9.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClCompile Include="vp9_frame_buffer_pool.cc"/>
+    <ClInclude Include="vp9_frame_buffer_pool.h"/>
+    <ClCompile Include="vp9_impl.cc"/>
+    <ClInclude Include="vp9_impl.h"/>
+    <None Include="vp9.gyp"/>
+  </ItemGroup>
+</Project>

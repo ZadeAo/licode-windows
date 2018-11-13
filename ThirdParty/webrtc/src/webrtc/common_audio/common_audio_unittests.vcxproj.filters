@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="resampler">
+      <UniqueIdentifier>{22710670-3B14-8439-B380-77D8241D5A94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resampler">
+      <UniqueIdentifier>{22710670-3B14-8439-B380-77D8241D5A94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resampler">
+      <UniqueIdentifier>{22710670-3B14-8439-B380-77D8241D5A94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resampler">
+      <UniqueIdentifier>{22710670-3B14-8439-B380-77D8241D5A94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resampler">
+      <UniqueIdentifier>{22710670-3B14-8439-B380-77D8241D5A94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resampler">
+      <UniqueIdentifier>{22710670-3B14-8439-B380-77D8241D5A94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="signal_processing">
+      <UniqueIdentifier>{EA9935C9-9016-26DD-0B04-5EEDE74A3343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="signal_processing">
+      <UniqueIdentifier>{EA9935C9-9016-26DD-0B04-5EEDE74A3343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vad">
+      <UniqueIdentifier>{C27688D7-253B-3537-3FAE-7871C2C97330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vad">
+      <UniqueIdentifier>{C27688D7-253B-3537-3FAE-7871C2C97330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vad">
+      <UniqueIdentifier>{C27688D7-253B-3537-3FAE-7871C2C97330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vad">
+      <UniqueIdentifier>{C27688D7-253B-3537-3FAE-7871C2C97330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vad">
+      <UniqueIdentifier>{C27688D7-253B-3537-3FAE-7871C2C97330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vad">
+      <UniqueIdentifier>{C27688D7-253B-3537-3FAE-7871C2C97330}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="audio_converter_unittest.cc"/>
+    <ClCompile Include="audio_ring_buffer_unittest.cc"/>
+    <ClCompile Include="audio_util_unittest.cc"/>
+    <ClCompile Include="blocker_unittest.cc"/>
+    <ClCompile Include="fir_filter_unittest.cc"/>
+    <ClCompile Include="lapped_transform_unittest.cc"/>
+    <ClCompile Include="real_fourier_unittest.cc"/>
+    <ClCompile Include="resampler\resampler_unittest.cc">
+      <Filter>resampler</Filter>
+    </ClCompile>
+    <ClCompile Include="resampler\push_resampler_unittest.cc">
+      <Filter>resampler</Filter>
+    </ClCompile>
+    <ClCompile Include="resampler\push_sinc_resampler_unittest.cc">
+      <Filter>resampler</Filter>
+    </ClCompile>
+    <ClCompile Include="resampler\sinc_resampler_unittest.cc">
+      <Filter>resampler</Filter>
+    </ClCompile>
+    <ClCompile Include="resampler\sinusoidal_linear_chirp_source.cc">
+      <Filter>resampler</Filter>
+    </ClCompile>
+    <ClInclude Include="resampler\sinusoidal_linear_chirp_source.h">
+      <Filter>resampler</Filter>
+    </ClInclude>
+    <ClCompile Include="ring_buffer_unittest.cc"/>
+    <ClCompile Include="signal_processing\real_fft_unittest.cc">
+      <Filter>signal_processing</Filter>
+    </ClCompile>
+    <ClCompile Include="signal_processing\signal_processing_unittest.cc">
+      <Filter>signal_processing</Filter>
+    </ClCompile>
+    <ClCompile Include="sparse_fir_filter_unittest.cc"/>
+    <ClCompile Include="vad\vad_core_unittest.cc">
+      <Filter>vad</Filter>
+    </ClCompile>
+    <ClCompile Include="vad\vad_filterbank_unittest.cc">
+      <Filter>vad</Filter>
+    </ClCompile>
+    <ClCompile Include="vad\vad_gmm_unittest.cc">
+      <Filter>vad</Filter>
+    </ClCompile>
+    <ClCompile Include="vad\vad_sp_unittest.cc">
+      <Filter>vad</Filter>
+    </ClCompile>
+    <ClCompile Include="vad\vad_unittest.cc">
+      <Filter>vad</Filter>
+    </ClCompile>
+    <ClInclude Include="vad\vad_unittest.h">
+      <Filter>vad</Filter>
+    </ClInclude>
+    <ClCompile Include="wav_header_unittest.cc"/>
+    <ClCompile Include="wav_file_unittest.cc"/>
+    <ClCompile Include="window_generator_unittest.cc"/>
+    <None Include="common_audio.gyp"/>
+  </ItemGroup>
+</Project>

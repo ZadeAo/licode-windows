@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{23D79827-E423-BA46-5AD6-622B0828F65C}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>boringssl</RootNamespace>
+    <IgnoreWarnCompileDuplicatedFilename>true</IgnoreWarnCompileDuplicatedFilename>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Label="Configuration">
+    <CharacterSet>Unicode</CharacterSet>
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Label="Locals">
+    <PlatformToolset>v141_xp</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.props" />
+  <ImportGroup Label="ExtensionSettings">
+    <Import Project="boringssl.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <ExecutablePath>$(ExecutablePath);$(MSBuildProjectDirectory)\.\bin\;$(MSBuildProjectDirectory)\.\bin\</ExecutablePath>
+    <OutDir>..\..\build\$(Configuration)\</OutDir>
+    <IntDir>$(OutDir)obj\$(ProjectName)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <TargetName>$(ProjectName)</TargetName>
+    <TargetPath>$(OutDir)lib\$(ProjectName)$(TargetExt)</TargetPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(OutDir)obj\global_intermediate;..\..\third_party\wtl\include;src\include;src\crypto;C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>/MP /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <CompileAsWinRT>false</CompileAsWinRT>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4091;4127;4351;4355;4503;4611;4100;4121;4244;4481;4505;4510;4512;4610;4838;4996;4456;4457;4458;4459;4702;4267;4800;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <ExceptionHandling>false</ExceptionHandling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <MinimalRebuild>false</MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PreprocessorDefinitions>_DEBUG;V8_DEPRECATION_WARNINGS;_WIN32_WINNT=0x0603;WINVER=0x0603;WIN32;_WINDOWS;NOMINMAX;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;WIN32_LEAN_AND_MEAN;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=0;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;BORINGSSL_IMPLEMENTATION;BORINGSSL_NO_STATIC_INITIALIZER;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;DYNAMIC_ANNOTATIONS_ENABLED=1;WTF_USE_DYNAMIC_ANNOTATIONS=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+      <TreatWarningAsError>false</TreatWarningAsError>
+      <WarningLevel>Level3</WarningLevel>
+    </ClCompile>
+    <Lib>
+      <AdditionalLibraryDirectories>C:/Program Files (x86)/Windows Kits/8.1/Lib/win8/um/x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/ignore:4221 %(AdditionalOptions)</AdditionalOptions>
+      <OutputFile>$(OutDir)lib\$(ProjectName)$(TargetExt)</OutputFile>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Lib>
+    <Link>
+      <AdditionalDependencies>wininet.lib;dnsapi.lib;version.lib;msimg32.lib;ws2_32.lib;usp10.lib;psapi.lib;dbghelp.lib;winmm.lib;shlwapi.lib;kernel32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;user32.lib;uuid.lib;odbc32.lib;odbccp32.lib;delayimp.lib;credui.lib;netapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:/Program Files (x86)/Windows Kits/8.1/Lib/win8/um/x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/maxilksize:0x7ff00000 /safeseh /dynamicbase /ignore:4199 /ignore:4221 /nxcompat /largeaddressaware %(AdditionalOptions)</AdditionalOptions>
+      <DelayLoadDLLs>dbghelp.dll;dwmapi.dll;shell32.dll;uxtheme.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+      <FixedBaseAddress>false</FixedBaseAddress>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ImportLibrary>$(OutDir)lib\$(TargetName).lib</ImportLibrary>
+      <MapFileName>$(OutDir)$(TargetName).map</MapFileName>
+      <MinimumRequiredVersion>5.01</MinimumRequiredVersion>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <SubSystem>Console</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DllDataFileName>%(Filename).dlldata.c</DllDataFileName>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+    </Midl>
+    <ResourceCompile>
+      <AdditionalIncludeDirectories>../..;$(OutDir)obj/global_intermediate;$(OutDir)obj\global_intermediate;..\..\third_party\wtl\include;src\include;src\crypto;C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Culture>0x0409</Culture>
+      <PreprocessorDefinitions>_DEBUG;V8_DEPRECATION_WARNINGS;_WIN32_WINNT=0x0603;WINVER=0x0603;WIN32;_WINDOWS;NOMINMAX;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;WIN32_LEAN_AND_MEAN;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=0;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;BORINGSSL_IMPLEMENTATION;BORINGSSL_NO_STATIC_INITIALIZER;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;DYNAMIC_ANNOTATIONS_ENABLED=1;WTF_USE_DYNAMIC_ANNOTATIONS=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(OutDir)obj\global_intermediate;..\..\third_party\wtl\include;src\include;src\crypto;C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>/MP /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <CompileAsWinRT>false</CompileAsWinRT>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4091;4127;4351;4355;4503;4611;4100;4121;4244;4481;4505;4510;4512;4610;4838;4996;4456;4457;4458;4459;4702;4267;4800;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <ExceptionHandling>false</ExceptionHandling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <MinimalRebuild>false</MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PreprocessorDefinitions>_DEBUG;V8_DEPRECATION_WARNINGS;_WIN32_WINNT=0x0603;WINVER=0x0603;WIN32;_WINDOWS;NOMINMAX;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;WIN32_LEAN_AND_MEAN;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=0;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;BORINGSSL_IMPLEMENTATION;BORINGSSL_NO_STATIC_INITIALIZER;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;DYNAMIC_ANNOTATIONS_ENABLED=1;WTF_USE_DYNAMIC_ANNOTATIONS=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <WarningLevel>Level3</WarningLevel>
+    </ClCompile>
+    <Lib>
+      <AdditionalLibraryDirectories>C:/Program Files (x86)/Windows Kits/8.1/Lib/win8/um/x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/ignore:4221 %(AdditionalOptions)</AdditionalOptions>
+      <OutputFile>$(OutDir)lib\$(ProjectName)$(TargetExt)</OutputFile>
+      <TargetMachine>MachineX64</TargetMachine>
+    </Lib>
+    <Link>
+      <AdditionalDependencies>wininet.lib;dnsapi.lib;version.lib;msimg32.lib;ws2_32.lib;usp10.lib;psapi.lib;dbghelp.lib;winmm.lib;shlwapi.lib;kernel32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;user32.lib;uuid.lib;odbc32.lib;odbccp32.lib;delayimp.lib;credui.lib;netapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:/Program Files (x86)/Windows Kits/8.1/Lib/win8/um/x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/maxilksize:0x7ff00000 /dynamicbase /ignore:4199 /ignore:4221 /nxcompat %(AdditionalOptions)</AdditionalOptions>
+      <DelayLoadDLLs>dbghelp.dll;dwmapi.dll;shell32.dll;uxtheme.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+      <FixedBaseAddress>false</FixedBaseAddress>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>olepro32.lib</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>$(OutDir)lib\$(TargetName).lib</ImportLibrary>
+      <MapFileName>$(OutDir)$(TargetName).map</MapFileName>
+      <MinimumRequiredVersion>5.02</MinimumRequiredVersion>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <SubSystem>Console</SubSystem>
+      <TargetMachine>MachineX64</TargetMachine>
+    </Link>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DllDataFileName>%(Filename).dlldata.c</DllDataFileName>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+    </Midl>
+    <ResourceCompile>
+      <AdditionalIncludeDirectories>../..;$(OutDir)obj/global_intermediate;$(OutDir)obj\global_intermediate;..\..\third_party\wtl\include;src\include;src\crypto;C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Culture>0x0409</Culture>
+      <PreprocessorDefinitions>_DEBUG;V8_DEPRECATION_WARNINGS;_WIN32_WINNT=0x0603;WINVER=0x0603;WIN32;_WINDOWS;NOMINMAX;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;WIN32_LEAN_AND_MEAN;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=0;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;BORINGSSL_IMPLEMENTATION;BORINGSSL_NO_STATIC_INITIALIZER;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;DYNAMIC_ANNOTATIONS_ENABLED=1;WTF_USE_DYNAMIC_ANNOTATIONS=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(OutDir)obj\global_intermediate;..\..\third_party\wtl\include;src\include;src\crypto;C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>/MP /bigobj /d2Zi+ /Zc:inline /Oy- /Gw %(AdditionalOptions)</AdditionalOptions>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <CompileAsWinRT>false</CompileAsWinRT>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4091;4127;4351;4355;4503;4611;4100;4121;4244;4481;4505;4510;4512;4610;4838;4996;4456;4457;4458;4459;4702;4267;4800;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <ExceptionHandling>false</ExceptionHandling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild>false</MinimalRebuild>
+      <OmitFramePointers>false</OmitFramePointers>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PreprocessorDefinitions>V8_DEPRECATION_WARNINGS;_WIN32_WINNT=0x0603;WINVER=0x0603;WIN32;_WINDOWS;NOMINMAX;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;WIN32_LEAN_AND_MEAN;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=0;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;BORINGSSL_IMPLEMENTATION;BORINGSSL_NO_STATIC_INITIALIZER;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;NDEBUG;NVALGRIND;DYNAMIC_ANNOTATIONS_ENABLED=0;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+      <StringPooling>true</StringPooling>
+      <TreatWarningAsError>false</TreatWarningAsError>
+      <WarningLevel>Level3</WarningLevel>
+    </ClCompile>
+    <Lib>
+      <AdditionalLibraryDirectories>C:/Program Files (x86)/Windows Kits/8.1/Lib/win8/um/x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/ignore:4221 %(AdditionalOptions)</AdditionalOptions>
+      <OutputFile>$(OutDir)lib\$(ProjectName)$(TargetExt)</OutputFile>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Lib>
+    <Link>
+      <AdditionalDependencies>wininet.lib;dnsapi.lib;version.lib;msimg32.lib;ws2_32.lib;usp10.lib;psapi.lib;dbghelp.lib;winmm.lib;shlwapi.lib;kernel32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;user32.lib;uuid.lib;odbc32.lib;odbccp32.lib;delayimp.lib;credui.lib;netapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:/Program Files (x86)/Windows Kits/8.1/Lib/win8/um/x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/maxilksize:0x7ff00000 /safeseh /dynamicbase /ignore:4199 /ignore:4221 /nxcompat /largeaddressaware %(AdditionalOptions)</AdditionalOptions>
+      <DelayLoadDLLs>dbghelp.dll;dwmapi.dll;shell32.dll;uxtheme.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <FixedBaseAddress>false</FixedBaseAddress>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ImportLibrary>$(OutDir)lib\$(TargetName).lib</ImportLibrary>
+      <MapFileName>$(OutDir)$(TargetName).map</MapFileName>
+      <MinimumRequiredVersion>5.01</MinimumRequiredVersion>
+      <OptimizeReferences>true</OptimizeReferences>
+      <Profile>true</Profile>
+      <SubSystem>Console</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DllDataFileName>%(Filename).dlldata.c</DllDataFileName>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+    </Midl>
+    <ResourceCompile>
+      <AdditionalIncludeDirectories>../..;$(OutDir)obj/global_intermediate;$(OutDir)obj\global_intermediate;..\..\third_party\wtl\include;src\include;src\crypto;C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Culture>0x0409</Culture>
+      <PreprocessorDefinitions>V8_DEPRECATION_WARNINGS;_WIN32_WINNT=0x0603;WINVER=0x0603;WIN32;_WINDOWS;NOMINMAX;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;WIN32_LEAN_AND_MEAN;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=0;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;BORINGSSL_IMPLEMENTATION;BORINGSSL_NO_STATIC_INITIALIZER;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;NDEBUG;NVALGRIND;DYNAMIC_ANNOTATIONS_ENABLED=0;%(PreprocessorDefinitions);%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(OutDir)obj\global_intermediate;..\..\third_party\wtl\include;src\include;src\crypto;C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>/MP /bigobj /d2Zi+ /Zc:inline /Oy- /Gw %(AdditionalOptions)</AdditionalOptions>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <CompileAsWinRT>false</CompileAsWinRT>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4091;4127;4351;4355;4503;4611;4100;4121;4244;4481;4505;4510;4512;4610;4838;4996;4456;4457;4458;4459;4702;4267;4800;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <ExceptionHandling>false</ExceptionHandling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild>false</MinimalRebuild>
+      <OmitFramePointers>false</OmitFramePointers>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PreprocessorDefinitions>V8_DEPRECATION_WARNINGS;_WIN32_WINNT=0x0603;WINVER=0x0603;WIN32;_WINDOWS;NOMINMAX;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;WIN32_LEAN_AND_MEAN;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=0;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;BORINGSSL_IMPLEMENTATION;BORINGSSL_NO_STATIC_INITIALIZER;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;NDEBUG;NVALGRIND;DYNAMIC_ANNOTATIONS_ENABLED=0;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+      <StringPooling>true</StringPooling>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <WarningLevel>Level3</WarningLevel>
+    </ClCompile>
+    <Lib>
+      <AdditionalLibraryDirectories>C:/Program Files (x86)/Windows Kits/8.1/Lib/win8/um/x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/ignore:4221 %(AdditionalOptions)</AdditionalOptions>
+      <OutputFile>$(OutDir)lib\$(ProjectName)$(TargetExt)</OutputFile>
+      <TargetMachine>MachineX64</TargetMachine>
+    </Lib>
+    <Link>
+      <AdditionalDependencies>wininet.lib;dnsapi.lib;version.lib;msimg32.lib;ws2_32.lib;usp10.lib;psapi.lib;dbghelp.lib;winmm.lib;shlwapi.lib;kernel32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;user32.lib;uuid.lib;odbc32.lib;odbccp32.lib;delayimp.lib;credui.lib;netapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:/Program Files (x86)/Windows Kits/8.1/Lib/win8/um/x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/maxilksize:0x7ff00000 /dynamicbase /ignore:4199 /ignore:4221 /nxcompat %(AdditionalOptions)</AdditionalOptions>
+      <DelayLoadDLLs>dbghelp.dll;dwmapi.dll;shell32.dll;uxtheme.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <FixedBaseAddress>false</FixedBaseAddress>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>olepro32.lib</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>$(OutDir)lib\$(TargetName).lib</ImportLibrary>
+      <MapFileName>$(OutDir)$(TargetName).map</MapFileName>
+      <MinimumRequiredVersion>5.02</MinimumRequiredVersion>
+      <OptimizeReferences>true</OptimizeReferences>
+      <Profile>true</Profile>
+      <SubSystem>Console</SubSystem>
+      <TargetMachine>MachineX64</TargetMachine>
+    </Link>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DllDataFileName>%(Filename).dlldata.c</DllDataFileName>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+    </Midl>
+    <ResourceCompile>
+      <AdditionalIncludeDirectories>../..;$(OutDir)obj/global_intermediate;$(OutDir)obj\global_intermediate;..\..\third_party\wtl\include;src\include;src\crypto;C:\Program Files (x86)\Windows Kits\8.1\Include\shared;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Kits\8.1\Include\winrt;$(VSInstallDir)\VC\atlmfc\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Culture>0x0409</Culture>
+      <PreprocessorDefinitions>V8_DEPRECATION_WARNINGS;_WIN32_WINNT=0x0603;WINVER=0x0603;WIN32;_WINDOWS;NOMINMAX;PSAPI_VERSION=1;_CRT_RAND_S;CERT_CHAIN_PARA_HAS_EXTRA_FIELDS;WIN32_LEAN_AND_MEAN;_ATL_NO_OPENGL;_SECURE_ATL;_HAS_EXCEPTIONS=0;_WINSOCK_DEPRECATED_NO_WARNINGS;CHROMIUM_BUILD;CR_CLANG_REVISION=239674-1;USE_AURA=1;USE_ASH=1;USE_DEFAULT_RENDER_THEME=1;USE_LIBJPEG_TURBO=1;ENABLE_ONE_CLICK_SIGNIN;ENABLE_PRE_SYNC_BACKUP;ENABLE_REMOTING=1;ENABLE_WEBRTC=1;ENABLE_MEDIA_ROUTER=1;ENABLE_PEPPER_CDMS;ENABLE_CONFIGURATION_POLICY;ENABLE_NOTIFICATIONS;ENABLE_HIDPI=1;ENABLE_TOPCHROME_MD=1;DONT_EMBED_BUILD_METADATA;NO_TCMALLOC;ALLOCATOR_SHIM;__STD_C;_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;NTDDI_VERSION=0x06030000;_USING_V110_SDK71_;ENABLE_TASK_MANAGER=1;ENABLE_EXTENSIONS=1;ENABLE_PLUGIN_INSTALLATION=1;ENABLE_PLUGINS=1;ENABLE_SESSION_SERVICE=1;ENABLE_THEMES=1;ENABLE_AUTOFILL_DIALOG=1;ENABLE_BACKGROUND=1;ENABLE_GOOGLE_NOW=1;CLD_VERSION=2;ENABLE_PRINTING=1;ENABLE_BASIC_PRINTING=1;ENABLE_PRINT_PREVIEW=1;ENABLE_SPELLCHECK=1;ENABLE_CAPTIVE_PORTAL_DETECTION=1;ENABLE_APP_LIST=1;ENABLE_SETTINGS_APP=1;ENABLE_SUPERVISED_USERS=1;ENABLE_MDNS=1;ENABLE_SERVICE_DISCOVERY=1;ENABLE_WIFI_BOOTSTRAPPING=1;V8_USE_EXTERNAL_STARTUP_DATA;FULL_SAFE_BROWSING;SAFE_BROWSING_CSD;SAFE_BROWSING_DB_LOCAL;SAFE_BROWSING_SERVICE;BORINGSSL_IMPLEMENTATION;BORINGSSL_NO_STATIC_INITIALIZER;USE_LIBPCI=1;USE_OPENSSL=1;_CRT_NONSTDC_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;NDEBUG;NVALGRIND;DYNAMIC_ANNOTATIONS_ENABLED=0;%(PreprocessorDefinitions);%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="boringssl.gyp" />
+    <None Include="$(OutDir)\yasm.exe" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\aes-586.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\aesni-x86.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\vpaes-x86.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\bn-586.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\co-586.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\x86-mont.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\cpu-x86-asm.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\md5-586.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\ghash-x86.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\rc4-586.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\sha1-586.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\sha256-586.obj" />
+    <None Include="$(OutDir)obj\global_intermediate\third_party\boringssl\sha512-586.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="err_data.c" />
+    <ClCompile Include="src\crypto\aes\aes.c" />
+    <ClCompile Include="src\crypto\aes\mode_wrappers.c" />
+    <ClCompile Include="src\crypto\asn1\a_bitstr.c" />
+    <ClCompile Include="src\crypto\asn1\a_bool.c" />
+    <ClCompile Include="src\crypto\asn1\a_bytes.c" />
+    <ClCompile Include="src\crypto\asn1\a_d2i_fp.c" />
+    <ClCompile Include="src\crypto\asn1\a_dup.c" />
+    <ClCompile Include="src\crypto\asn1\a_enum.c" />
+    <ClCompile Include="src\crypto\asn1\a_gentm.c" />
+    <ClCompile Include="src\crypto\asn1\a_i2d_fp.c" />
+    <ClCompile Include="src\crypto\asn1\a_int.c" />
+    <ClCompile Include="src\crypto\asn1\a_mbstr.c" />
+    <ClCompile Include="src\crypto\asn1\a_object.c" />
+    <ClCompile Include="src\crypto\asn1\a_octet.c" />
+    <ClCompile Include="src\crypto\asn1\a_print.c" />
+    <ClCompile Include="src\crypto\asn1\a_strnid.c" />
+    <ClCompile Include="src\crypto\asn1\a_time.c" />
+    <ClCompile Include="src\crypto\asn1\a_type.c" />
+    <ClCompile Include="src\crypto\asn1\a_utctm.c" />
+    <ClCompile Include="src\crypto\asn1\a_utf8.c" />
+    <ClCompile Include="src\crypto\asn1\asn1_lib.c" />
+    <ClCompile Include="src\crypto\asn1\asn1_par.c" />
+    <ClCompile Include="src\crypto\asn1\asn_pack.c" />
+    <ClCompile Include="src\crypto\asn1\bio_asn1.c" />
+    <ClCompile Include="src\crypto\asn1\bio_ndef.c" />
+    <ClCompile Include="src\crypto\asn1\f_enum.c" />
+    <ClCompile Include="src\crypto\asn1\f_int.c" />
+    <ClCompile Include="src\crypto\asn1\f_string.c" />
+    <ClCompile Include="src\crypto\asn1\t_bitst.c" />
+    <ClCompile Include="src\crypto\asn1\t_pkey.c" />
+    <ClCompile Include="src\crypto\asn1\tasn_dec.c" />
+    <ClCompile Include="src\crypto\asn1\tasn_enc.c" />
+    <ClCompile Include="src\crypto\asn1\tasn_fre.c" />
+    <ClCompile Include="src\crypto\asn1\tasn_new.c" />
+    <ClCompile Include="src\crypto\asn1\tasn_prn.c" />
+    <ClCompile Include="src\crypto\asn1\tasn_typ.c" />
+    <ClCompile Include="src\crypto\asn1\tasn_utl.c" />
+    <ClCompile Include="src\crypto\asn1\x_bignum.c" />
+    <ClCompile Include="src\crypto\asn1\x_long.c" />
+    <ClCompile Include="src\crypto\base64\base64.c" />
+    <ClCompile Include="src\crypto\bio\bio.c" />
+    <ClCompile Include="src\crypto\bio\bio_mem.c" />
+    <ClCompile Include="src\crypto\bio\buffer.c" />
+    <ClCompile Include="src\crypto\bio\connect.c" />
+    <ClCompile Include="src\crypto\bio\fd.c" />
+    <ClCompile Include="src\crypto\bio\file.c" />
+    <ClCompile Include="src\crypto\bio\hexdump.c" />
+    <ClCompile Include="src\crypto\bio\pair.c" />
+    <ClCompile Include="src\crypto\bio\printf.c" />
+    <ClCompile Include="src\crypto\bio\socket.c" />
+    <ClCompile Include="src\crypto\bio\socket_helper.c" />
+    <ClCompile Include="src\crypto\bn\add.c" />
+    <ClCompile Include="src\crypto\bn\asm\x86_64-gcc.c" />
+    <ClCompile Include="src\crypto\bn\bn.c" />
+    <ClCompile Include="src\crypto\bn\cmp.c" />
+    <ClCompile Include="src\crypto\bn\convert.c" />
+    <ClCompile Include="src\crypto\bn\ctx.c" />
+    <ClCompile Include="src\crypto\bn\div.c" />
+    <ClCompile Include="src\crypto\bn\exponentiation.c" />
+    <ClCompile Include="src\crypto\bn\gcd.c" />
+    <ClCompile Include="src\crypto\bn\generic.c" />
+    <ClCompile Include="src\crypto\bn\kronecker.c" />
+    <ClCompile Include="src\crypto\bn\montgomery.c" />
+    <ClCompile Include="src\crypto\bn\mul.c" />
+    <ClCompile Include="src\crypto\bn\prime.c" />
+    <ClCompile Include="src\crypto\bn\random.c" />
+    <ClCompile Include="src\crypto\bn\rsaz_exp.c" />
+    <ClCompile Include="src\crypto\bn\shift.c" />
+    <ClCompile Include="src\crypto\bn\sqrt.c" />
+    <ClCompile Include="src\crypto\buf\buf.c" />
+    <ClCompile Include="src\crypto\bytestring\ber.c" />
+    <ClCompile Include="src\crypto\bytestring\cbb.c" />
+    <ClCompile Include="src\crypto\bytestring\cbs.c" />
+    <ClCompile Include="src\crypto\chacha\chacha_generic.c" />
+    <ClCompile Include="src\crypto\chacha\chacha_vec.c" />
+    <ClCompile Include="src\crypto\cipher\aead.c" />
+    <ClCompile Include="src\crypto\cipher\cipher.c" />
+    <ClCompile Include="src\crypto\cipher\derive_key.c" />
+    <ClCompile Include="src\crypto\cipher\e_aes.c" />
+    <ClCompile Include="src\crypto\cipher\e_chacha20poly1305.c" />
+    <ClCompile Include="src\crypto\cipher\e_des.c" />
+    <ClCompile Include="src\crypto\cipher\e_null.c" />
+    <ClCompile Include="src\crypto\cipher\e_rc2.c" />
+    <ClCompile Include="src\crypto\cipher\e_rc4.c" />
+    <ClCompile Include="src\crypto\cipher\e_ssl3.c" />
+    <ClCompile Include="src\crypto\cipher\e_tls.c" />
+    <ClCompile Include="src\crypto\cipher\tls_cbc.c" />
+    <ClCompile Include="src\crypto\cmac\cmac.c" />
+    <ClCompile Include="src\crypto\conf\conf.c" />
+    <ClCompile Include="src\crypto\cpu-arm.c" />
+    <ClCompile Include="src\crypto\cpu-intel.c" />
+    <ClCompile Include="src\crypto\crypto.c" />
+    <ClCompile Include="src\crypto\des\des.c" />
+    <ClCompile Include="src\crypto\dh\check.c" />
+    <ClCompile Include="src\crypto\dh\dh.c" />
+    <ClCompile Include="src\crypto\dh\dh_asn1.c" />
+    <ClCompile Include="src\crypto\dh\dh_impl.c" />
+    <ClCompile Include="src\crypto\dh\params.c" />
+    <ClCompile Include="src\crypto\digest\digest.c" />
+    <ClCompile Include="src\crypto\digest\digests.c" />
+    <ClCompile Include="src\crypto\directory_posix.c" />
+    <ClCompile Include="src\crypto\directory_win.c" />
+    <ClCompile Include="src\crypto\dsa\dsa.c" />
+    <ClCompile Include="src\crypto\dsa\dsa_asn1.c" />
+    <ClCompile Include="src\crypto\dsa\dsa_impl.c" />
+    <ClCompile Include="src\crypto\ec\ec.c" />
+    <ClCompile Include="src\crypto\ec\ec_asn1.c" />
+    <ClCompile Include="src\crypto\ec\ec_key.c" />
+    <ClCompile Include="src\crypto\ec\ec_montgomery.c" />
+    <ClCompile Include="src\crypto\ec\oct.c" />
+    <ClCompile Include="src\crypto\ec\p256-64.c" />
+    <ClCompile Include="src\crypto\ec\simple.c" />
+    <ClCompile Include="src\crypto\ec\util-64.c" />
+    <ClCompile Include="src\crypto\ec\wnaf.c" />
+    <ClCompile Include="src\crypto\ecdh\ecdh.c" />
+    <ClCompile Include="src\crypto\ecdsa\ecdsa.c" />
+    <ClCompile Include="src\crypto\ecdsa\ecdsa_asn1.c" />
+    <ClCompile Include="src\crypto\engine\engine.c" />
+    <ClCompile Include="src\crypto\err\err.c" />
+    <ClCompile Include="src\crypto\evp\algorithm.c" />
+    <ClCompile Include="src\crypto\evp\asn1.c" />
+    <ClCompile Include="src\crypto\evp\digestsign.c" />
+    <ClCompile Include="src\crypto\evp\evp.c" />
+    <ClCompile Include="src\crypto\evp\evp_ctx.c" />
+    <ClCompile Include="src\crypto\evp\p_dsa_asn1.c" />
+    <ClCompile Include="src\crypto\evp\p_ec.c" />
+    <ClCompile Include="src\crypto\evp\p_ec_asn1.c" />
+    <ClCompile Include="src\crypto\evp\p_rsa.c" />
+    <ClCompile Include="src\crypto\evp\p_rsa_asn1.c" />
+    <ClCompile Include="src\crypto\evp\pbkdf.c" />
+    <ClCompile Include="src\crypto\evp\sign.c" />
+    <ClCompile Include="src\crypto\ex_data.c" />
+    <ClCompile Include="src\crypto\hkdf\hkdf.c" />
+    <ClCompile Include="src\crypto\hmac\hmac.c" />
+    <ClCompile Include="src\crypto\lhash\lhash.c" />
+    <ClCompile Include="src\crypto\md4\md4.c" />
+    <ClCompile Include="src\crypto\md5\md5.c" />
+    <ClCompile Include="src\crypto\mem.c" />
+    <ClCompile Include="src\crypto\modes\cbc.c" />
+    <ClCompile Include="src\crypto\modes\cfb.c" />
+    <ClCompile Include="src\crypto\modes\ctr.c" />
+    <ClCompile Include="src\crypto\modes\gcm.c" />
+    <ClCompile Include="src\crypto\modes\ofb.c" />
+    <ClCompile Include="src\crypto\obj\obj.c" />
+    <ClCompile Include="src\crypto\obj\obj_xref.c" />
+    <ClCompile Include="src\crypto\pem\pem_all.c" />
+    <ClCompile Include="src\crypto\pem\pem_info.c" />
+    <ClCompile Include="src\crypto\pem\pem_lib.c" />
+    <ClCompile Include="src\crypto\pem\pem_oth.c" />
+    <ClCompile Include="src\crypto\pem\pem_pk8.c" />
+    <ClCompile Include="src\crypto\pem\pem_pkey.c" />
+    <ClCompile Include="src\crypto\pem\pem_x509.c" />
+    <ClCompile Include="src\crypto\pem\pem_xaux.c" />
+    <ClCompile Include="src\crypto\pkcs8\p5_pbe.c" />
+    <ClCompile Include="src\crypto\pkcs8\p5_pbev2.c" />
+    <ClCompile Include="src\crypto\pkcs8\p8_pkey.c" />
+    <ClCompile Include="src\crypto\pkcs8\pkcs8.c" />
+    <ClCompile Include="src\crypto\poly1305\poly1305.c" />
+    <ClCompile Include="src\crypto\poly1305\poly1305_arm.c" />
+    <ClCompile Include="src\crypto\poly1305\poly1305_vec.c" />
+    <ClCompile Include="src\crypto\rand\hwrand.c" />
+    <ClCompile Include="src\crypto\rand\rand.c" />
+    <ClCompile Include="src\crypto\rand\urandom.c" />
+    <ClCompile Include="src\crypto\rand\windows.c" />
+    <ClCompile Include="src\crypto\rc4\rc4.c" />
+    <ClCompile Include="src\crypto\refcount_c11.c" />
+    <ClCompile Include="src\crypto\refcount_lock.c" />
+    <ClCompile Include="src\crypto\rsa\blinding.c" />
+    <ClCompile Include="src\crypto\rsa\padding.c" />
+    <ClCompile Include="src\crypto\rsa\rsa.c" />
+    <ClCompile Include="src\crypto\rsa\rsa_asn1.c" />
+    <ClCompile Include="src\crypto\rsa\rsa_impl.c" />
+    <ClCompile Include="src\crypto\sha\sha1.c" />
+    <ClCompile Include="src\crypto\sha\sha256.c" />
+    <ClCompile Include="src\crypto\sha\sha512.c" />
+    <ClCompile Include="src\crypto\stack\stack.c" />
+    <ClCompile Include="src\crypto\thread.c" />
+    <ClCompile Include="src\crypto\thread_none.c" />
+    <ClCompile Include="src\crypto\thread_pthread.c" />
+    <ClCompile Include="src\crypto\thread_win.c" />
+    <ClCompile Include="src\crypto\time_support.c" />
+    <ClCompile Include="src\crypto\x509\a_digest.c" />
+    <ClCompile Include="src\crypto\x509\a_sign.c" />
+    <ClCompile Include="src\crypto\x509\a_strex.c" />
+    <ClCompile Include="src\crypto\x509\a_verify.c" />
+    <ClCompile Include="src\crypto\x509\asn1_gen.c" />
+    <ClCompile Include="src\crypto\x509\by_dir.c" />
+    <ClCompile Include="src\crypto\x509\by_file.c" />
+    <ClCompile Include="src\crypto\x509\i2d_pr.c" />
+    <ClCompile Include="src\crypto\x509\pkcs7.c" />
+    <ClCompile Include="src\crypto\x509\t_crl.c" />
+    <ClCompile Include="src\crypto\x509\t_req.c" />
+    <ClCompile Include="src\crypto\x509\t_x509.c" />
+    <ClCompile Include="src\crypto\x509\t_x509a.c" />
+    <ClCompile Include="src\crypto\x509\x509.c" />
+    <ClCompile Include="src\crypto\x509\x509_att.c" />
+    <ClCompile Include="src\crypto\x509\x509_cmp.c" />
+    <ClCompile Include="src\crypto\x509\x509_d2.c" />
+    <ClCompile Include="src\crypto\x509\x509_def.c" />
+    <ClCompile Include="src\crypto\x509\x509_ext.c" />
+    <ClCompile Include="src\crypto\x509\x509_lu.c" />
+    <ClCompile Include="src\crypto\x509\x509_obj.c" />
+    <ClCompile Include="src\crypto\x509\x509_r2x.c" />
+    <ClCompile Include="src\crypto\x509\x509_req.c" />
+    <ClCompile Include="src\crypto\x509\x509_set.c" />
+    <ClCompile Include="src\crypto\x509\x509_trs.c" />
+    <ClCompile Include="src\crypto\x509\x509_txt.c" />
+    <ClCompile Include="src\crypto\x509\x509_v3.c" />
+    <ClCompile Include="src\crypto\x509\x509_vfy.c" />
+    <ClCompile Include="src\crypto\x509\x509_vpm.c" />
+    <ClCompile Include="src\crypto\x509\x509cset.c" />
+    <ClCompile Include="src\crypto\x509\x509name.c" />
+    <ClCompile Include="src\crypto\x509\x509rset.c" />
+    <ClCompile Include="src\crypto\x509\x509spki.c" />
+    <ClCompile Include="src\crypto\x509\x509type.c" />
+    <ClCompile Include="src\crypto\x509\x_algor.c" />
+    <ClCompile Include="src\crypto\x509\x_all.c" />
+    <ClCompile Include="src\crypto\x509\x_attrib.c" />
+    <ClCompile Include="src\crypto\x509\x_crl.c" />
+    <ClCompile Include="src\crypto\x509\x_exten.c" />
+    <ClCompile Include="src\crypto\x509\x_info.c" />
+    <ClCompile Include="src\crypto\x509\x_name.c" />
+    <ClCompile Include="src\crypto\x509\x_pkey.c" />
+    <ClCompile Include="src\crypto\x509\x_pubkey.c" />
+    <ClCompile Include="src\crypto\x509\x_req.c" />
+    <ClCompile Include="src\crypto\x509\x_sig.c" />
+    <ClCompile Include="src\crypto\x509\x_spki.c" />
+    <ClCompile Include="src\crypto\x509\x_val.c" />
+    <ClCompile Include="src\crypto\x509\x_x509.c" />
+    <ClCompile Include="src\crypto\x509\x_x509a.c" />
+    <ClCompile Include="src\crypto\x509v3\pcy_cache.c" />
+    <ClCompile Include="src\crypto\x509v3\pcy_data.c" />
+    <ClCompile Include="src\crypto\x509v3\pcy_lib.c" />
+    <ClCompile Include="src\crypto\x509v3\pcy_map.c" />
+    <ClCompile Include="src\crypto\x509v3\pcy_node.c" />
+    <ClCompile Include="src\crypto\x509v3\pcy_tree.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_akey.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_akeya.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_alt.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_bcons.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_bitst.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_conf.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_cpols.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_crld.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_enum.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_extku.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_genn.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_ia5.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_info.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_int.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_lib.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_ncons.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_pci.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_pcia.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_pcons.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_pku.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_pmaps.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_prn.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_purp.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_skey.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_sxnet.c" />
+    <ClCompile Include="src\crypto\x509v3\v3_utl.c" />
+    <ClCompile Include="src\ssl\d1_both.c" />
+    <ClCompile Include="src\ssl\d1_clnt.c" />
+    <ClCompile Include="src\ssl\d1_lib.c" />
+    <ClCompile Include="src\ssl\d1_meth.c" />
+    <ClCompile Include="src\ssl\d1_pkt.c" />
+    <ClCompile Include="src\ssl\d1_srtp.c" />
+    <ClCompile Include="src\ssl\d1_srvr.c" />
+    <ClCompile Include="src\ssl\pqueue\pqueue.c" />
+    <ClCompile Include="src\ssl\s3_both.c" />
+    <ClCompile Include="src\ssl\s3_clnt.c" />
+    <ClCompile Include="src\ssl\s3_enc.c" />
+    <ClCompile Include="src\ssl\s3_lib.c" />
+    <ClCompile Include="src\ssl\s3_meth.c" />
+    <ClCompile Include="src\ssl\s3_pkt.c" />
+    <ClCompile Include="src\ssl\s3_srvr.c" />
+    <ClCompile Include="src\ssl\ssl_aead_ctx.c" />
+    <ClCompile Include="src\ssl\ssl_algs.c" />
+    <ClCompile Include="src\ssl\ssl_asn1.c" />
+    <ClCompile Include="src\ssl\ssl_cert.c" />
+    <ClCompile Include="src\ssl\ssl_cipher.c" />
+    <ClCompile Include="src\ssl\ssl_lib.c" />
+    <ClCompile Include="src\ssl\ssl_rsa.c" />
+    <ClCompile Include="src\ssl\ssl_sess.c" />
+    <ClCompile Include="src\ssl\ssl_stat.c" />
+    <ClCompile Include="src\ssl\ssl_txt.c" />
+    <ClCompile Include="src\ssl\t1_enc.c" />
+    <ClCompile Include="src\ssl\t1_lib.c" />
+    <ClCompile Include="src\ssl\t1_reneg.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <assemble Include="win-x86\crypto\aes\aes-586.asm" />
+    <assemble Include="win-x86\crypto\aes\aesni-x86.asm" />
+    <assemble Include="win-x86\crypto\aes\vpaes-x86.asm" />
+    <assemble Include="win-x86\crypto\bn\bn-586.asm" />
+    <assemble Include="win-x86\crypto\bn\co-586.asm" />
+    <assemble Include="win-x86\crypto\bn\x86-mont.asm" />
+    <assemble Include="win-x86\crypto\cpu-x86-asm.asm" />
+    <assemble Include="win-x86\crypto\md5\md5-586.asm" />
+    <assemble Include="win-x86\crypto\modes\ghash-x86.asm" />
+    <assemble Include="win-x86\crypto\rc4\rc4-586.asm" />
+    <assemble Include="win-x86\crypto\sha\sha1-586.asm" />
+    <assemble Include="win-x86\crypto\sha\sha256-586.asm" />
+    <assemble Include="win-x86\crypto\sha\sha512-586.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\yasm\yasm.vcxproj">
+      <Project>{F336733B-E5B6-B67B-2713-5DF1FC74E51B}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="boringssl.targets" />
+  </ImportGroup>
+</Project>

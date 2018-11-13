@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="audio_processing">
+      <UniqueIdentifier>{56B88925-734A-08EA-8306-74393ACBB4AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_processing\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\..\tools">
+      <UniqueIdentifier>{A0946190-5491-4D66-7E51-19400E36F078}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\..\tools\protoc_wrapper">
+      <UniqueIdentifier>{34D2DD54-FDF8-D9D8-4C83-CA01DBAC57A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)">
+      <UniqueIdentifier>{ECA95933-7FA6-5798-4EC4-C0CAC6DD34DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)">
+      <UniqueIdentifier>{ECA95933-7FA6-5798-4EC4-C0CAC6DD34DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)\pyproto">
+      <UniqueIdentifier>{A5155811-51E5-1087-45BA-D2802E9B53B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)\pyproto\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)\pyproto\webrtc\audio_processing">
+      <UniqueIdentifier>{56B88925-734A-08EA-8306-74393ACBB4AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)gen">
+      <UniqueIdentifier>{B54385DA-9AA0-82F8-3CCF-636B21B5C41E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)gen\protoc_out">
+      <UniqueIdentifier>{456EFA50-5ADA-2D4B-BB76-1BD6B9BCA3A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)gen\protoc_out\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)gen\protoc_out\webrtc\audio_processing">
+      <UniqueIdentifier>{56B88925-734A-08EA-8306-74393ACBB4AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)gen">
+      <UniqueIdentifier>{B54385DA-9AA0-82F8-3CCF-636B21B5C41E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)gen\protoc_out">
+      <UniqueIdentifier>{456EFA50-5ADA-2D4B-BB76-1BD6B9BCA3A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)gen\protoc_out\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)gen\protoc_out\webrtc\audio_processing">
+      <UniqueIdentifier>{56B88925-734A-08EA-8306-74393ACBB4AE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="audio_processing\test\unittest.proto">
+      <Filter>audio_processing\test</Filter>
+    </None>
+    <None Include="modules.gyp"/>
+    <None Include="..\..\tools\protoc_wrapper\protoc_wrapper.py">
+      <Filter>..\..\tools\protoc_wrapper</Filter>
+    </None>
+    <None Include="$(OutDir)\protoc.exe">
+      <Filter>$(OutDir)</Filter>
+    </None>
+    <None Include="$(OutDir)\pyproto\webrtc\audio_processing\unittest_pb2.py">
+      <Filter>$(OutDir)\pyproto\webrtc\audio_processing</Filter>
+    </None>
+    <ClCompile Include="$(OutDir)gen\protoc_out\webrtc\audio_processing\unittest.pb.cc">
+      <Filter>$(OutDir)gen\protoc_out\webrtc\audio_processing</Filter>
+    </ClCompile>
+    <ClInclude Include="$(OutDir)gen\protoc_out\webrtc\audio_processing\unittest.pb.h">
+      <Filter>$(OutDir)gen\protoc_out\webrtc\audio_processing</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+Name: junit
+URL: https://github.com/KentBeck/junit/downloads
+Version: 4.11
+License: BSD
+License File: junit-4.11.jar:LICENSE
+
+Description:
+A programmer-oriented testing framework for Java.
+
+Local modifications:
+None; this is a direct copy of
+https://github.com/downloads/KentBeck/junit/junit-4.11.jar

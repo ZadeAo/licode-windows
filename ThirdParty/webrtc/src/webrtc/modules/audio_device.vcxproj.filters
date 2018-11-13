@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\dummy">
+      <UniqueIdentifier>{EDAC0263-35FB-65E4-11D2-5AD413ACA64A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\dummy">
+      <UniqueIdentifier>{EDAC0263-35FB-65E4-11D2-5AD413ACA64A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\dummy">
+      <UniqueIdentifier>{EDAC0263-35FB-65E4-11D2-5AD413ACA64A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\dummy">
+      <UniqueIdentifier>{EDAC0263-35FB-65E4-11D2-5AD413ACA64A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\dummy">
+      <UniqueIdentifier>{EDAC0263-35FB-65E4-11D2-5AD413ACA64A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\dummy">
+      <UniqueIdentifier>{EDAC0263-35FB-65E4-11D2-5AD413ACA64A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android">
+      <UniqueIdentifier>{840B8E33-5F8C-45A0-5FD6-F07AA5687203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\android\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\ios">
+      <UniqueIdentifier>{5D988FAB-2F83-50FF-3F70-6A382CF02DF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\ios\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\ios">
+      <UniqueIdentifier>{5D988FAB-2F83-50FF-3F70-6A382CF02DF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\ios\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux">
+      <UniqueIdentifier>{978C4E9B-8123-1CA3-A70B-0A340D4435AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux">
+      <UniqueIdentifier>{978C4E9B-8123-1CA3-A70B-0A340D4435AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux">
+      <UniqueIdentifier>{978C4E9B-8123-1CA3-A70B-0A340D4435AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux">
+      <UniqueIdentifier>{978C4E9B-8123-1CA3-A70B-0A340D4435AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux">
+      <UniqueIdentifier>{978C4E9B-8123-1CA3-A70B-0A340D4435AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux">
+      <UniqueIdentifier>{978C4E9B-8123-1CA3-A70B-0A340D4435AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux">
+      <UniqueIdentifier>{978C4E9B-8123-1CA3-A70B-0A340D4435AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux">
+      <UniqueIdentifier>{978C4E9B-8123-1CA3-A70B-0A340D4435AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\linux\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\portaudio">
+      <UniqueIdentifier>{6FED294C-8117-CA60-EE9C-5B0233085EB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\portaudio\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\portaudio">
+      <UniqueIdentifier>{6FED294C-8117-CA60-EE9C-5B0233085EB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\portaudio\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device">
+      <UniqueIdentifier>{AE092FA9-C6A1-FB10-E177-2DF0051DD5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\portaudio">
+      <UniqueIdentifier>{6FED294C-8117-CA60-EE9C-5B0233085EB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_device\mac\portaudio\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="audio_device\include\audio_device.h">
+      <Filter>audio_device\include</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_device\include\audio_device_defines.h">
+      <Filter>audio_device\include</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\audio_device_buffer.cc">
+      <Filter>audio_device</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\audio_device_buffer.h">
+      <Filter>audio_device</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\audio_device_generic.cc">
+      <Filter>audio_device</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\audio_device_generic.h">
+      <Filter>audio_device</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_device\audio_device_config.h">
+      <Filter>audio_device</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\dummy\audio_device_dummy.cc">
+      <Filter>audio_device\dummy</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\dummy\audio_device_dummy.h">
+      <Filter>audio_device\dummy</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\dummy\file_audio_device.cc">
+      <Filter>audio_device\dummy</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\dummy\file_audio_device.h">
+      <Filter>audio_device\dummy</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\dummy\file_audio_device_factory.cc">
+      <Filter>audio_device\dummy</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\dummy\file_audio_device_factory.h">
+      <Filter>audio_device\dummy</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\audio_device_impl.cc">
+      <Filter>audio_device</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\audio_device_impl.h">
+      <Filter>audio_device</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\win\audio_device_core_win.cc">
+      <Filter>audio_device\win</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\win\audio_device_core_win.h">
+      <Filter>audio_device\win</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\win\audio_device_wave_win.cc">
+      <Filter>audio_device\win</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\win\audio_device_wave_win.h">
+      <Filter>audio_device\win</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\win\audio_mixer_manager_win.cc">
+      <Filter>audio_device\win</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\win\audio_mixer_manager_win.h">
+      <Filter>audio_device\win</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+    <ClInclude Include="audio_device\android\audio_device_template.h">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\android\audio_manager.cc">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\android\audio_manager.h">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\android\audio_record_jni.cc">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\android\audio_record_jni.h">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\android\audio_track_jni.cc">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\android\audio_track_jni.h">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\android\build_info.cc">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\android\build_info.h">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\android\fine_audio_buffer.cc">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\android\fine_audio_buffer.h">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\android\opensles_common.cc">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\android\opensles_common.h">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\android\opensles_player.cc">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\android\opensles_player.h">
+      <Filter>audio_device\android\_excluded_files</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_device\ios\audio_device_ios.h">
+      <Filter>audio_device\ios\_excluded_files</Filter>
+    </ClInclude>
+    <None Include="audio_device\ios\audio_device_ios.mm">
+      <Filter>audio_device\ios\_excluded_files</Filter>
+    </None>
+    <ClCompile Include="audio_device\linux\alsasymboltable_linux.cc">
+      <Filter>audio_device\linux\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\linux\alsasymboltable_linux.h">
+      <Filter>audio_device\linux\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\linux\audio_device_alsa_linux.cc">
+      <Filter>audio_device\linux\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\linux\audio_device_alsa_linux.h">
+      <Filter>audio_device\linux\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\linux\audio_mixer_manager_alsa_linux.cc">
+      <Filter>audio_device\linux\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\linux\audio_mixer_manager_alsa_linux.h">
+      <Filter>audio_device\linux\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\linux\latebindingsymboltable_linux.cc">
+      <Filter>audio_device\linux\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\linux\latebindingsymboltable_linux.h">
+      <Filter>audio_device\linux\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\mac\audio_device_mac.cc">
+      <Filter>audio_device\mac\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\mac\audio_device_mac.h">
+      <Filter>audio_device\mac\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\mac\audio_mixer_manager_mac.cc">
+      <Filter>audio_device\mac\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\mac\audio_mixer_manager_mac.h">
+      <Filter>audio_device\mac\_excluded_files</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_device\mac\portaudio\pa_memorybarrier.h">
+      <Filter>audio_device\mac\portaudio\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_device\mac\portaudio\pa_ringbuffer.c">
+      <Filter>audio_device\mac\portaudio\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_device\mac\portaudio\pa_ringbuffer.h">
+      <Filter>audio_device\mac\portaudio\_excluded_files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

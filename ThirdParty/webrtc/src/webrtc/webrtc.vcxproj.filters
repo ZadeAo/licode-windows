@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_engine">
+      <UniqueIdentifier>{7B0495ED-CE93-384D-974A-61FD95C96FA4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="call.h"/>
+    <ClInclude Include="config.h"/>
+    <ClInclude Include="experiments.h"/>
+    <ClInclude Include="frame_callback.h"/>
+    <ClInclude Include="transport.h"/>
+    <ClInclude Include="video_receive_stream.h"/>
+    <ClInclude Include="video_renderer.h"/>
+    <ClInclude Include="video_send_stream.h"/>
+    <ClCompile Include="video\audio_receive_stream.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClInclude Include="video\audio_receive_stream.h">
+      <Filter>video</Filter>
+    </ClInclude>
+    <ClCompile Include="video\call.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\encoded_frame_callback_adapter.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClInclude Include="video\encoded_frame_callback_adapter.h">
+      <Filter>video</Filter>
+    </ClInclude>
+    <ClCompile Include="video\receive_statistics_proxy.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClInclude Include="video\receive_statistics_proxy.h">
+      <Filter>video</Filter>
+    </ClInclude>
+    <ClCompile Include="video\send_statistics_proxy.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClInclude Include="video\send_statistics_proxy.h">
+      <Filter>video</Filter>
+    </ClInclude>
+    <ClCompile Include="video\transport_adapter.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClInclude Include="video\transport_adapter.h">
+      <Filter>video</Filter>
+    </ClInclude>
+    <ClCompile Include="video\video_capture_input.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClInclude Include="video\video_capture_input.h">
+      <Filter>video</Filter>
+    </ClInclude>
+    <ClCompile Include="video\video_decoder.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\video_encoder.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\video_receive_stream.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClInclude Include="video\video_receive_stream.h">
+      <Filter>video</Filter>
+    </ClInclude>
+    <ClCompile Include="video\video_send_stream.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClInclude Include="video\video_send_stream.h">
+      <Filter>video</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\call_stats.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\call_stats.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\encoder_state_feedback.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\encoder_state_feedback.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\overuse_frame_detector.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\overuse_frame_detector.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\payload_router.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\payload_router.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\report_block_stats.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\report_block_stats.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\stream_synchronization.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\stream_synchronization.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\vie_channel.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\vie_channel.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\vie_channel_group.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\vie_channel_group.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClInclude Include="video_engine\vie_defines.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\vie_encoder.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\vie_encoder.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\vie_receiver.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\vie_receiver.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\vie_remb.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\vie_remb.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <ClCompile Include="video_engine\vie_sync_module.cc">
+      <Filter>video_engine</Filter>
+    </ClCompile>
+    <ClInclude Include="video_engine\vie_sync_module.h">
+      <Filter>video_engine</Filter>
+    </ClInclude>
+    <None Include="webrtc.gyp"/>
+  </ItemGroup>
+</Project>

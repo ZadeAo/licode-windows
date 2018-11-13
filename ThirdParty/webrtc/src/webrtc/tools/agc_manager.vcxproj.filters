@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="agc">
+      <UniqueIdentifier>{CB87BD36-83E1-7668-ABF6-2BE851C74FC8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agc">
+      <UniqueIdentifier>{CB87BD36-83E1-7668-ABF6-2BE851C74FC8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="agc\agc_manager.cc">
+      <Filter>agc</Filter>
+    </ClCompile>
+    <ClInclude Include="agc\agc_manager.h">
+      <Filter>agc</Filter>
+    </ClInclude>
+    <None Include="tools.gyp"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\celt">
+      <UniqueIdentifier>{9028ABC0-6677-F67D-2096-4FA8F210BDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk">
+      <UniqueIdentifier>{645805FE-C44F-694D-1BC4-9CDBA4F3B5B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\silk\float">
+      <UniqueIdentifier>{4E289A7E-3B7A-1678-2723-9C1B05ABA625}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\celt\_kiss_fft_guts.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\arch.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\bands.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\bands.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\celt.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\celt.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\celt_decoder.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\celt\celt_encoder.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\celt\celt_lpc.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\celt_lpc.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\cpu_support.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\cwrs.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\cwrs.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\ecintrin.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\entcode.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\entcode.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\entdec.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\entdec.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\entenc.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\entenc.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\fixed_debug.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\fixed_generic.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\float_cast.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\kiss_fft.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\kiss_fft.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\laplace.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\laplace.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\mathops.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\mathops.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\mdct.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\mdct.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\mfrngcod.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\modes.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\modes.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\os_support.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\pitch.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\pitch.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\quant_bands.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\quant_bands.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\rate.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\rate.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\stack_alloc.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\static_modes_fixed.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\celt\static_modes_float.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClCompile Include="src\celt\vq.c">
+      <Filter>src\celt</Filter>
+    </ClCompile>
+    <ClInclude Include="src\celt\vq.h">
+      <Filter>src\celt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\opus.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\opus_custom.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\opus_defines.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\opus_multistream.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\opus_types.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\A2NLSF.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\ana_filt_bank_1.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\API.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\biquad_alt.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\bwexpander.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\bwexpander_32.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\check_control_input.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\CNG.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\code_signs.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\control.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\control_audio_bandwidth.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\control_codec.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\control_SNR.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\debug.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\debug.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\dec_API.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\decode_core.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\decode_frame.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\decode_indices.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\decode_parameters.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\decode_pitch.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\decode_pulses.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\decoder_set_fs.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\define.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\enc_API.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\encode_indices.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\encode_pulses.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\errors.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\gain_quant.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\HP_variable_cutoff.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\init_decoder.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\init_encoder.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\Inlines.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\inner_prod_aligned.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\interpolate.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\lin2log.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\log2lin.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\LP_variable_cutoff.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\LPC_analysis_filter.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\LPC_inv_pred_gain.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\MacroCount.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClInclude Include="src\silk\MacroDebug.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClInclude Include="src\silk\macros.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClInclude Include="src\silk\main.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\NLSF2A.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NLSF_decode.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NLSF_del_dec_quant.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NLSF_encode.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NLSF_stabilize.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NLSF_unpack.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NLSF_VQ.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NLSF_VQ_weights_laroia.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NSQ.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\NSQ_del_dec.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\pitch_est_defines.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\pitch_est_tables.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\PLC.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\PLC.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\process_NLSFs.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\quant_LTP_gains.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\resampler.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\resampler_down2.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\resampler_down2_3.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\resampler_private.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\resampler_private_AR2.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\resampler_private_down_FIR.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\resampler_private_IIR_FIR.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\resampler_private_up2_HQ.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\resampler_rom.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\resampler_rom.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClInclude Include="src\silk\resampler_structs.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\shell_coder.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\sigm_Q15.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\SigProc_FIX.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\sort.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\stereo_decode_pred.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\stereo_encode_pred.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\stereo_find_predictor.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\stereo_LR_to_MS.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\stereo_MS_to_LR.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\stereo_quant_pred.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\structs.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\sum_sqr_shift.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\table_LSF_cos.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\tables.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\tables_gain.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\tables_LTP.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\tables_NLSF_CB_NB_MB.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\tables_NLSF_CB_WB.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\tables_other.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\tables_pitch_lag.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\tables_pulses_per_block.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\tuning_parameters.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClInclude Include="src\silk\typedef.h">
+      <Filter>src\silk</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\VAD.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\VQ_WMat_EC.c">
+      <Filter>src\silk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\analysis.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClInclude Include="src\src\analysis.h">
+      <Filter>src\src</Filter>
+    </ClInclude>
+    <ClCompile Include="src\src\mlp.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClInclude Include="src\src\mlp.h">
+      <Filter>src\src</Filter>
+    </ClInclude>
+    <ClCompile Include="src\src\mlp_data.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\opus.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\opus_decoder.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\opus_encoder.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\opus_multistream.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\opus_multistream_decoder.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\opus_multistream_encoder.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\repacketizer.c">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClInclude Include="src\src\tansig_table.h">
+      <Filter>src\src</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\float\apply_sine_window_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\autocorrelation_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\burg_modified_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\bwexpander_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\corrMatrix_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\encode_frame_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\energy_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\find_LPC_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\find_LTP_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\find_pitch_lags_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\find_pred_coefs_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\inner_product_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\k2a_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\levinsondurbin_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\LPC_analysis_filter_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\LPC_inv_pred_gain_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\LTP_analysis_filter_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\LTP_scale_ctrl_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\float\main_FLP.h">
+      <Filter>src\silk\float</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\float\noise_shape_analysis_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\pitch_analysis_core_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\prefilter_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\process_gains_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\regularize_correlations_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\residual_energy_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\scale_copy_vector_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\scale_vector_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\schur_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\float\SigProc_FLP.h">
+      <Filter>src\silk\float</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\float\solve_LS_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\sort_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClInclude Include="src\silk\float\structs_FLP.h">
+      <Filter>src\silk\float</Filter>
+    </ClInclude>
+    <ClCompile Include="src\silk\float\warped_autocorrelation_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <ClCompile Include="src\silk\float\wrappers_FLP.c">
+      <Filter>src\silk\float</Filter>
+    </ClCompile>
+    <None Include="opus.gyp"/>
+  </ItemGroup>
+</Project>

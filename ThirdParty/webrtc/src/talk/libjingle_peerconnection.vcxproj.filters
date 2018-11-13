@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{796C56B0-A938-902A-0081-40464DA4EDD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app\webrtc">
+      <UniqueIdentifier>{543055F1-DB92-5041-CF1C-6916DDF7679F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="app\webrtc\audiotrack.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\audiotrack.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\audiotrackrenderer.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\audiotrackrenderer.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\datachannel.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\datachannel.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\datachannelinterface.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\dtlsidentityservice.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\dtlsidentityservice.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\dtlsidentitystore.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\dtlsidentitystore.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\dtmfsender.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\dtmfsender.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\dtmfsenderinterface.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\fakeportallocatorfactory.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\jsep.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\jsepicecandidate.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\jsepicecandidate.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\jsepsessiondescription.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\jsepsessiondescription.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\localaudiosource.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\localaudiosource.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\mediaconstraintsinterface.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\mediaconstraintsinterface.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\mediastream.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\mediastream.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\mediastreamhandler.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\mediastreamhandler.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\mediastreaminterface.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\mediastreamprovider.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\mediastreamproxy.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\mediastreamsignaling.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\mediastreamsignaling.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\mediastreamtrack.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\mediastreamtrackproxy.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\notifier.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\peerconnection.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\peerconnection.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\peerconnectionfactory.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\peerconnectionfactory.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\peerconnectionfactoryproxy.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\peerconnectioninterface.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\peerconnectionproxy.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\portallocatorfactory.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\portallocatorfactory.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\proxy.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\remoteaudiosource.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\remoteaudiosource.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\remotevideocapturer.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\remotevideocapturer.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\sctputils.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\sctputils.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\statscollector.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\statscollector.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\statstypes.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\statstypes.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\streamcollection.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\videosource.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\videosource.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\videosourceinterface.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClInclude Include="app\webrtc\videosourceproxy.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\videotrack.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\videotrack.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\videotrackrenderers.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\videotrackrenderers.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\webrtcsdp.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\webrtcsdp.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\webrtcsession.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\webrtcsession.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <ClCompile Include="app\webrtc\webrtcsessiondescriptionfactory.cc">
+      <Filter>app\webrtc</Filter>
+    </ClCompile>
+    <ClInclude Include="app\webrtc\webrtcsessiondescriptionfactory.h">
+      <Filter>app\webrtc</Filter>
+    </ClInclude>
+    <None Include="libjingle.gyp"/>
+  </ItemGroup>
+</Project>

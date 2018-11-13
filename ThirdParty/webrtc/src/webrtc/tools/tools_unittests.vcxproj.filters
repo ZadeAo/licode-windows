@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="frame_editing">
+      <UniqueIdentifier>{A0279770-F2B1-1B43-4E8E-502524CC3622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="frame_analyzer">
+      <UniqueIdentifier>{9175C166-2D65-FAC5-ECE3-DBB0D19E4A17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="simple_command_line_parser_unittest.cc"/>
+    <ClCompile Include="frame_editing\frame_editing_unittest.cc">
+      <Filter>frame_editing</Filter>
+    </ClCompile>
+    <ClCompile Include="frame_analyzer\video_quality_analysis_unittest.cc">
+      <Filter>frame_analyzer</Filter>
+    </ClCompile>
+    <None Include="tools.gyp"/>
+  </ItemGroup>
+</Project>

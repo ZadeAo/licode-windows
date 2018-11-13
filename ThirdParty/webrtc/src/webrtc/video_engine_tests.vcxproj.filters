@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="test\testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="test\testsupport\metrics">
+      <UniqueIdentifier>{DC24B95F-2580-773E-999D-FF21A384B9AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tools">
+      <UniqueIdentifier>{A0946190-5491-4D66-7E51-19400E36F078}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tools\agc">
+      <UniqueIdentifier>{CB87BD36-83E1-7668-ABF6-2BE851C74FC8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video">
+      <UniqueIdentifier>{5A4388DD-8A3A-FA65-0F09-87F605ED3291}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test\common_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="test\testsupport\metrics\video_metrics_unittest.cc">
+      <Filter>test\testsupport\metrics</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\agc\agc_manager_unittest.cc">
+      <Filter>tools\agc</Filter>
+    </ClCompile>
+    <ClCompile Include="video\bitrate_estimator_tests.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\end_to_end_tests.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\send_statistics_proxy_unittest.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\video_capture_input_unittest.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\video_decoder_unittest.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\video_encoder_unittest.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <ClCompile Include="video\video_send_stream_tests.cc">
+      <Filter>video</Filter>
+    </ClCompile>
+    <None Include="webrtc.gyp"/>
+  </ItemGroup>
+</Project>

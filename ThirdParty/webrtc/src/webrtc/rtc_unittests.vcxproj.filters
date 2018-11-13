@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p">
+      <UniqueIdentifier>{8096E04D-D00E-DEF4-9C16-7F4A4E28C656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="p2p\stunprober">
+      <UniqueIdentifier>{E5C659FC-14AF-5951-065E-5B9CA3364334}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sound">
+      <UniqueIdentifier>{E7A9FA26-F6AE-493B-AA5C-B02D3E066CBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmllite">
+      <UniqueIdentifier>{BB4AF9D4-02E7-FCEB-F000-2EA7745196B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmllite">
+      <UniqueIdentifier>{BB4AF9D4-02E7-FCEB-F000-2EA7745196B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmllite">
+      <UniqueIdentifier>{BB4AF9D4-02E7-FCEB-F000-2EA7745196B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmllite">
+      <UniqueIdentifier>{BB4AF9D4-02E7-FCEB-F000-2EA7745196B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmllite">
+      <UniqueIdentifier>{BB4AF9D4-02E7-FCEB-F000-2EA7745196B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmllite">
+      <UniqueIdentifier>{BB4AF9D4-02E7-FCEB-F000-2EA7745196B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle">
+      <UniqueIdentifier>{5D9BF7B8-0730-2DB3-F452-C128FCF78905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libjingle\xmpp">
+      <UniqueIdentifier>{B134D3EF-0B0E-45CB-B8F7-8B574B4419CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="base\asynchttprequest_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\atomicops_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\autodetectproxy_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\bandwidthsmoother_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\base64_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\basictypes_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\bind_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\bitbuffer_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\buffer_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\bufferqueue_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\bytebuffer_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\byteorder_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\callback_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\cpumonitor_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\crc32_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\criticalsection_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\event_tracer_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\event_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\exp_filter_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\fileutils_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\helpers_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\httpbase_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\httpcommon_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\httpserver_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\ipaddress_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\logging_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\md5digest_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\messagedigest_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\messagequeue_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\multipart_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\nat_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\network_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\nullsocketserver_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\optionsfile_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\pathutils_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\profiler_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\proxy_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\proxydetect_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\ratelimiter_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\ratetracker_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\referencecountedsingletonfactory_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\rollingaccumulator_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\scopedptrcollection_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\sha1digest_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\sharedexclusivelock_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\signalthread_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\sigslot_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\sigslottester.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <None Include="base\sigslottester.h.pump">
+      <Filter>base</Filter>
+    </None>
+    <ClInclude Include="base\socket_unittest.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\socketaddress_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\stream_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\stringencode_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\stringutils_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\task_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\testclient_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\thread_checker_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\thread_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\timeutils_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\urlencode_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\versionparsing_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\virtualsocket_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\win32_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\win32regkey_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\win32window_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\winfirewall_unittest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\dtlstransportchannel_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClInclude Include="p2p\base\fakesession.h">
+      <Filter>p2p\base</Filter>
+    </ClInclude>
+    <ClCompile Include="p2p\base\p2ptransportchannel_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\port_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\pseudotcp_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\relayport_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\relayserver_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\stun_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\stunport_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\stunrequest_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\stunserver_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClInclude Include="p2p\base\testrelayserver.h">
+      <Filter>p2p\base</Filter>
+    </ClInclude>
+    <ClInclude Include="p2p\base\teststunserver.h">
+      <Filter>p2p\base</Filter>
+    </ClInclude>
+    <ClInclude Include="p2p\base\testturnserver.h">
+      <Filter>p2p\base</Filter>
+    </ClInclude>
+    <ClCompile Include="p2p\base\transport_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\transportdescriptionfactory_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\base\turnport_unittest.cc">
+      <Filter>p2p\base</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\client\connectivitychecker_unittest.cc">
+      <Filter>p2p\client</Filter>
+    </ClCompile>
+    <ClInclude Include="p2p\client\fakeportallocator.h">
+      <Filter>p2p\client</Filter>
+    </ClInclude>
+    <ClCompile Include="p2p\client\portallocator_unittest.cc">
+      <Filter>p2p\client</Filter>
+    </ClCompile>
+    <ClCompile Include="p2p\stunprober\stunprober_unittest.cc">
+      <Filter>p2p\stunprober</Filter>
+    </ClCompile>
+    <ClCompile Include="sound\automaticallychosensoundsystem_unittest.cc">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmllite\qname_unittest.cc">
+      <Filter>libjingle\xmllite</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmllite\xmlbuilder_unittest.cc">
+      <Filter>libjingle\xmllite</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmllite\xmlelement_unittest.cc">
+      <Filter>libjingle\xmllite</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmllite\xmlnsstack_unittest.cc">
+      <Filter>libjingle\xmllite</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmllite\xmlparser_unittest.cc">
+      <Filter>libjingle\xmllite</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmllite\xmlprinter_unittest.cc">
+      <Filter>libjingle\xmllite</Filter>
+    </ClCompile>
+    <ClInclude Include="libjingle\xmpp\fakexmppclient.h">
+      <Filter>libjingle\xmpp</Filter>
+    </ClInclude>
+    <ClCompile Include="libjingle\xmpp\hangoutpubsubclient_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\jid_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\mucroomconfigtask_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\mucroomdiscoverytask_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\mucroomlookuptask_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\mucroomuniquehangoutidtask_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\pingtask_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\pubsubclient_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\pubsubtasks_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\util_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClInclude Include="libjingle\xmpp\util_unittest.h">
+      <Filter>libjingle\xmpp</Filter>
+    </ClInclude>
+    <ClCompile Include="libjingle\xmpp\xmppengine_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\xmpplogintask_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <ClCompile Include="libjingle\xmpp\xmppstanzaparser_unittest.cc">
+      <Filter>libjingle\xmpp</Filter>
+    </ClCompile>
+    <None Include="webrtc.gyp"/>
+    <ClCompile Include="base\physicalsocketserver_unittest.cc">
+      <Filter>base\_excluded_files</Filter>
+    </ClCompile>
+    <ClCompile Include="base\socket_unittest.cc">
+      <Filter>base\_excluded_files</Filter>
+    </ClCompile>
+    <ClCompile Include="base\win32socketserver_unittest.cc">
+      <Filter>base\_excluded_files</Filter>
+    </ClCompile>
+    <ClCompile Include="base\win32windowpicker_unittest.cc">
+      <Filter>base\_excluded_files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

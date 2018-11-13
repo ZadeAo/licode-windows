@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\interface">
+      <UniqueIdentifier>{D45E0FBD-84A7-45CA-36AC-7A06BD0C9BF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\interface">
+      <UniqueIdentifier>{D45E0FBD-84A7-45CA-36AC-7A06BD0C9BF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs">
+      <UniqueIdentifier>{DC75C0D7-DB48-A303-557E-D64CDD91FAD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac">
+      <UniqueIdentifier>{FD184FF6-D485-18A3-A8D2-0235BDB55D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix">
+      <UniqueIdentifier>{4032D18C-5201-C199-D384-195AE6002183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\codecs\isac\fix\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="audio_coding\codecs\isac\audio_encoder_isac_t.h">
+      <Filter>audio_coding\codecs\isac</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\audio_encoder_isac_t_impl.h">
+      <Filter>audio_coding\codecs\isac</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\interface\audio_encoder_isacfix.h">
+      <Filter>audio_coding\codecs\isac\fix\interface</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\interface\isacfix.h">
+      <Filter>audio_coding\codecs\isac\fix\interface</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\arith_routines.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\arith_routines_hist.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\arith_routines_logist.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\audio_encoder_isacfix.cc">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\bandwidth_estimator.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\decode.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\decode_bwe.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\decode_plc.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\encode.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\entropy_coding.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\fft.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\filterbank_tables.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\filterbanks.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\filters.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\initialize.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\isacfix.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\lattice.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\lattice_c.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\lpc_masking_model.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\lpc_tables.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\pitch_estimator.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\pitch_estimator_c.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\pitch_filter.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\pitch_filter_c.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\pitch_gain_tables.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\pitch_lag_tables.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\spectrum_ar_model_tables.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\transform.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\codecs\isac\fix\source\transform_tables.c">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\arith_routins.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\bandwidth_estimator.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\codec.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\entropy_coding.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\fft.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\filterbank_tables.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\lpc_masking_model.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\lpc_tables.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\pitch_estimator.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\pitch_gain_tables.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\pitch_lag_tables.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\settings.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\spectrum_ar_model_tables.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\codecs\isac\fix\source\structs.h">
+      <Filter>audio_coding\codecs\isac\fix\source</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

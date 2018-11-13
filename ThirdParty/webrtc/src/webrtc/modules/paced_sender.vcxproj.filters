@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="pacing">
+      <UniqueIdentifier>{45A993B5-2062-CAFA-B666-A3F26408DE77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pacing\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pacing">
+      <UniqueIdentifier>{45A993B5-2062-CAFA-B666-A3F26408DE77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pacing\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pacing">
+      <UniqueIdentifier>{45A993B5-2062-CAFA-B666-A3F26408DE77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pacing">
+      <UniqueIdentifier>{45A993B5-2062-CAFA-B666-A3F26408DE77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pacing">
+      <UniqueIdentifier>{45A993B5-2062-CAFA-B666-A3F26408DE77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pacing">
+      <UniqueIdentifier>{45A993B5-2062-CAFA-B666-A3F26408DE77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pacing\include\paced_sender.h">
+      <Filter>pacing\include</Filter>
+    </ClInclude>
+    <ClInclude Include="pacing\include\packet_router.h">
+      <Filter>pacing\include</Filter>
+    </ClInclude>
+    <ClCompile Include="pacing\bitrate_prober.cc">
+      <Filter>pacing</Filter>
+    </ClCompile>
+    <ClInclude Include="pacing\bitrate_prober.h">
+      <Filter>pacing</Filter>
+    </ClInclude>
+    <ClCompile Include="pacing\paced_sender.cc">
+      <Filter>pacing</Filter>
+    </ClCompile>
+    <ClCompile Include="pacing\packet_router.cc">
+      <Filter>pacing</Filter>
+    </ClCompile>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

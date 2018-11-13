@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="desktop_capture\differ_block_sse2.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\differ_block_sse2.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

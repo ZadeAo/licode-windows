@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11">
+      <UniqueIdentifier>{A78BE049-5EA6-5269-77AB-00E19A8B21F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11">
+      <UniqueIdentifier>{A78BE049-5EA6-5269-77AB-00E19A8B21F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11">
+      <UniqueIdentifier>{A78BE049-5EA6-5269-77AB-00E19A8B21F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11">
+      <UniqueIdentifier>{A78BE049-5EA6-5269-77AB-00E19A8B21F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11">
+      <UniqueIdentifier>{A78BE049-5EA6-5269-77AB-00E19A8B21F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture">
+      <UniqueIdentifier>{F642431A-858F-0B42-8E73-6CAF27D08123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11">
+      <UniqueIdentifier>{A78BE049-5EA6-5269-77AB-00E19A8B21F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="desktop_capture\x11\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="desktop_capture\cropped_desktop_frame.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\cropped_desktop_frame.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\cropping_window_capturer.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\cropping_window_capturer.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\cropping_window_capturer_win.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClCompile Include="desktop_capture\desktop_and_cursor_composer.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\desktop_and_cursor_composer.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClInclude Include="desktop_capture\desktop_capture_types.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClInclude Include="desktop_capture\desktop_capturer.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\desktop_frame.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\desktop_frame.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\desktop_frame_win.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\desktop_frame_win.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\desktop_geometry.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\desktop_geometry.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClInclude Include="desktop_capture\desktop_capture_options.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\desktop_capture_options.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClCompile Include="desktop_capture\desktop_region.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\desktop_region.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\differ.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\differ.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\differ_block.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\differ_block.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\mouse_cursor.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\mouse_cursor.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClInclude Include="desktop_capture\mouse_cursor_monitor.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\mouse_cursor_monitor_win.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClCompile Include="desktop_capture\screen_capture_frame_queue.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\screen_capture_frame_queue.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\screen_capturer.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\screen_capturer.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\screen_capturer_helper.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\screen_capturer_helper.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\screen_capturer_win.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClCompile Include="desktop_capture\shared_desktop_frame.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\shared_desktop_frame.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\shared_memory.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\shared_memory.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\win\cursor.cc">
+      <Filter>desktop_capture\win</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\win\cursor.h">
+      <Filter>desktop_capture\win</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\win\desktop.cc">
+      <Filter>desktop_capture\win</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\win\desktop.h">
+      <Filter>desktop_capture\win</Filter>
+    </ClInclude>
+    <ClInclude Include="desktop_capture\win\scoped_gdi_object.h">
+      <Filter>desktop_capture\win</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\win\scoped_thread_desktop.cc">
+      <Filter>desktop_capture\win</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\win\scoped_thread_desktop.h">
+      <Filter>desktop_capture\win</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\win\screen_capturer_win_gdi.cc">
+      <Filter>desktop_capture\win</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\win\screen_capturer_win_gdi.h">
+      <Filter>desktop_capture\win</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\win\screen_capturer_win_magnifier.cc">
+      <Filter>desktop_capture\win</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\win\screen_capturer_win_magnifier.h">
+      <Filter>desktop_capture\win</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\win\screen_capture_utils.cc">
+      <Filter>desktop_capture\win</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\win\screen_capture_utils.h">
+      <Filter>desktop_capture\win</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\win\window_capture_utils.cc">
+      <Filter>desktop_capture\win</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\win\window_capture_utils.h">
+      <Filter>desktop_capture\win</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\window_capturer.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\window_capturer.h">
+      <Filter>desktop_capture</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\window_capturer_win.cc">
+      <Filter>desktop_capture</Filter>
+    </ClCompile>
+    <None Include="modules.gyp"/>
+    <ClInclude Include="desktop_capture\mac\desktop_configuration.h">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClInclude>
+    <None Include="desktop_capture\mac\desktop_configuration.mm">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </None>
+    <ClInclude Include="desktop_capture\mac\desktop_configuration_monitor.h">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\mac\desktop_configuration_monitor.cc">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClCompile>
+    <ClCompile Include="desktop_capture\mac\full_screen_chrome_window_detector.cc">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\mac\full_screen_chrome_window_detector.h">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\mac\scoped_pixel_buffer_object.cc">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\mac\scoped_pixel_buffer_object.h">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\mac\window_list_utils.cc">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\mac\window_list_utils.h">
+      <Filter>desktop_capture\mac\_excluded_files</Filter>
+    </ClInclude>
+    <None Include="desktop_capture\mouse_cursor_monitor_mac.mm">
+      <Filter>desktop_capture\_excluded_files</Filter>
+    </None>
+    <ClCompile Include="desktop_capture\mouse_cursor_monitor_x11.cc">
+      <Filter>desktop_capture\_excluded_files</Filter>
+    </ClCompile>
+    <None Include="desktop_capture\screen_capturer_mac.mm">
+      <Filter>desktop_capture\_excluded_files</Filter>
+    </None>
+    <ClCompile Include="desktop_capture\screen_capturer_x11.cc">
+      <Filter>desktop_capture\_excluded_files</Filter>
+    </ClCompile>
+    <None Include="desktop_capture\window_capturer_mac.mm">
+      <Filter>desktop_capture\_excluded_files</Filter>
+    </None>
+    <ClCompile Include="desktop_capture\window_capturer_x11.cc">
+      <Filter>desktop_capture\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\x11\shared_x_display.h">
+      <Filter>desktop_capture\x11\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\x11\shared_x_display.cc">
+      <Filter>desktop_capture\x11\_excluded_files</Filter>
+    </ClCompile>
+    <ClCompile Include="desktop_capture\x11\x_error_trap.cc">
+      <Filter>desktop_capture\x11\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\x11\x_error_trap.h">
+      <Filter>desktop_capture\x11\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="desktop_capture\x11\x_server_pixel_buffer.cc">
+      <Filter>desktop_capture\x11\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="desktop_capture\x11\x_server_pixel_buffer.h">
+      <Filter>desktop_capture\x11\_excluded_files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

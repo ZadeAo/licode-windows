@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="video_processing">
+      <UniqueIdentifier>{CCB2E0A5-1F62-247F-5E6E-EEA3CB3C174E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_processing\main">
+      <UniqueIdentifier>{4ECC9921-7D4B-15DC-E268-546157B2659F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_processing\main\source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="video_processing\main\source\content_analysis_sse2.cc">
+      <Filter>video_processing\main\source</Filter>
+    </ClCompile>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

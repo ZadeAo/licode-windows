@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bitrate_controller">
+      <UniqueIdentifier>{7D929C95-1720-104A-DBF8-7965FD9E1C8F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bitrate_controller\bitrate_allocator.cc">
+      <Filter>bitrate_controller</Filter>
+    </ClCompile>
+    <ClCompile Include="bitrate_controller\bitrate_controller_impl.cc">
+      <Filter>bitrate_controller</Filter>
+    </ClCompile>
+    <ClInclude Include="bitrate_controller\bitrate_controller_impl.h">
+      <Filter>bitrate_controller</Filter>
+    </ClInclude>
+    <ClInclude Include="bitrate_controller\include\bitrate_controller.h">
+      <Filter>bitrate_controller\include</Filter>
+    </ClInclude>
+    <ClInclude Include="bitrate_controller\include\bitrate_allocator.h">
+      <Filter>bitrate_controller\include</Filter>
+    </ClInclude>
+    <ClCompile Include="bitrate_controller\send_side_bandwidth_estimation.cc">
+      <Filter>bitrate_controller</Filter>
+    </ClCompile>
+    <ClInclude Include="bitrate_controller\send_side_bandwidth_estimation.h">
+      <Filter>bitrate_controller</Filter>
+    </ClInclude>
+    <ClCompile Include="bitrate_controller\send_time_history.cc">
+      <Filter>bitrate_controller</Filter>
+    </ClCompile>
+    <ClInclude Include="bitrate_controller\send_time_history.h">
+      <Filter>bitrate_controller</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

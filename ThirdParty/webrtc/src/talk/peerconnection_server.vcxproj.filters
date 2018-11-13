@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="examples">
+      <UniqueIdentifier>{44436D1D-970F-7E02-EDA1-3A8DAD062A99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection">
+      <UniqueIdentifier>{1D501183-A773-28E9-F1E9-2CC2B23BB146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection\server">
+      <UniqueIdentifier>{DDE1ED62-148A-C318-D2FB-235778089083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples">
+      <UniqueIdentifier>{44436D1D-970F-7E02-EDA1-3A8DAD062A99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection">
+      <UniqueIdentifier>{1D501183-A773-28E9-F1E9-2CC2B23BB146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection\server">
+      <UniqueIdentifier>{DDE1ED62-148A-C318-D2FB-235778089083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples">
+      <UniqueIdentifier>{44436D1D-970F-7E02-EDA1-3A8DAD062A99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection">
+      <UniqueIdentifier>{1D501183-A773-28E9-F1E9-2CC2B23BB146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection\server">
+      <UniqueIdentifier>{DDE1ED62-148A-C318-D2FB-235778089083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples">
+      <UniqueIdentifier>{44436D1D-970F-7E02-EDA1-3A8DAD062A99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection">
+      <UniqueIdentifier>{1D501183-A773-28E9-F1E9-2CC2B23BB146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection\server">
+      <UniqueIdentifier>{DDE1ED62-148A-C318-D2FB-235778089083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples">
+      <UniqueIdentifier>{44436D1D-970F-7E02-EDA1-3A8DAD062A99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection">
+      <UniqueIdentifier>{1D501183-A773-28E9-F1E9-2CC2B23BB146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection\server">
+      <UniqueIdentifier>{DDE1ED62-148A-C318-D2FB-235778089083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples">
+      <UniqueIdentifier>{44436D1D-970F-7E02-EDA1-3A8DAD062A99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection">
+      <UniqueIdentifier>{1D501183-A773-28E9-F1E9-2CC2B23BB146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection\server">
+      <UniqueIdentifier>{DDE1ED62-148A-C318-D2FB-235778089083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples">
+      <UniqueIdentifier>{44436D1D-970F-7E02-EDA1-3A8DAD062A99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection">
+      <UniqueIdentifier>{1D501183-A773-28E9-F1E9-2CC2B23BB146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\peerconnection\server">
+      <UniqueIdentifier>{DDE1ED62-148A-C318-D2FB-235778089083}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="examples\peerconnection\server\data_socket.cc">
+      <Filter>examples\peerconnection\server</Filter>
+    </ClCompile>
+    <ClInclude Include="examples\peerconnection\server\data_socket.h">
+      <Filter>examples\peerconnection\server</Filter>
+    </ClInclude>
+    <ClCompile Include="examples\peerconnection\server\main.cc">
+      <Filter>examples\peerconnection\server</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\peerconnection\server\peer_channel.cc">
+      <Filter>examples\peerconnection\server</Filter>
+    </ClCompile>
+    <ClInclude Include="examples\peerconnection\server\peer_channel.h">
+      <Filter>examples\peerconnection\server</Filter>
+    </ClInclude>
+    <ClCompile Include="examples\peerconnection\server\utils.cc">
+      <Filter>examples\peerconnection\server</Filter>
+    </ClCompile>
+    <ClInclude Include="examples\peerconnection\server\utils.h">
+      <Filter>examples\peerconnection\server</Filter>
+    </ClInclude>
+    <None Include="libjingle_examples.gyp"/>
+  </ItemGroup>
+</Project>

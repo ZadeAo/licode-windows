@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\tools">
+      <UniqueIdentifier>{A0946190-5491-4D66-7E51-19400E36F078}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="remote_bitrate_estimator\tools\bwe_rtp_play.cc">
+      <Filter>remote_bitrate_estimator\tools</Filter>
+    </ClCompile>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

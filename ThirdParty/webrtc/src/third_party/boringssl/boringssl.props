@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(assembleBeforeTargets)' == '' and '$(assembleAfterTargets)' == '' and '$(ConfigurationType)' != 'Makefile'">
+    <assembleBeforeTargets>Midl</assembleBeforeTargets>
+    <assembleAfterTargets>CustomBuild</assembleAfterTargets>
+  </PropertyGroup>
+  <PropertyGroup>
+    <assembleDependsOn Condition="'$(ConfigurationType)' != 'Makefile'">_SelectedFiles;$(assembleDependsOn)</assembleDependsOn>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <assemble>
+      <CommandLineTemplate>call $(OutDir)yasm.exe &quot;-DPREFIX&quot; &quot;-fwin32&quot; &quot;-m&quot; &quot;x86&quot; &quot;-o&quot; &quot;$(OutDir)obj\global_intermediate\third_party\boringssl\%(Filename).obj&quot; &quot;%(Identity)&quot;</CommandLineTemplate>
+      <Outputs>$(OutDir)obj\global_intermediate\third_party\boringssl\%(Filename).obj</Outputs>
+      <ExecutionDescription>Compile assembly %(Identity)</ExecutionDescription>
+      <AdditionalDependencies>$(OutDir)yasm.exe</AdditionalDependencies>
+    </assemble>
+  </ItemDefinitionGroup>
+</Project>

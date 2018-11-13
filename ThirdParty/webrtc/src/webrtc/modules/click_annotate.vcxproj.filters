@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="audio_processing">
+      <UniqueIdentifier>{56B88925-734A-08EA-8306-74393ACBB4AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_processing\transient">
+      <UniqueIdentifier>{144A6D3E-6C6B-851F-8D9B-34CB6E487EB4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_processing">
+      <UniqueIdentifier>{56B88925-734A-08EA-8306-74393ACBB4AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_processing\transient">
+      <UniqueIdentifier>{144A6D3E-6C6B-851F-8D9B-34CB6E487EB4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_processing">
+      <UniqueIdentifier>{56B88925-734A-08EA-8306-74393ACBB4AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_processing\transient">
+      <UniqueIdentifier>{144A6D3E-6C6B-851F-8D9B-34CB6E487EB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="audio_processing\transient\click_annotate.cc">
+      <Filter>audio_processing\transient</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_processing\transient\file_utils.cc">
+      <Filter>audio_processing\transient</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_processing\transient\file_utils.h">
+      <Filter>audio_processing\transient</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

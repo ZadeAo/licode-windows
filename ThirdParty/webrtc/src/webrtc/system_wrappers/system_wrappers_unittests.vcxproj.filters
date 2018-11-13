@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{8A6F5E6E-316F-22D4-1547-253B04CB32E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\aligned_array_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\aligned_malloc_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\clock_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\condition_variable_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\critical_section_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\event_tracer_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\logging_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\data_log_unittest_disabled.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\data_log_helpers_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\data_log_c_helpers_unittest.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClInclude Include="source\data_log_c_helpers_unittest.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClCompile Include="source\rtp_to_ntp_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\scoped_vector_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\stringize_macros_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\stl_util_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\thread_unittest.cc">
+      <Filter>source</Filter>
+    </ClCompile>
+    <None Include="system_wrappers_tests.gyp"/>
+    <ClCompile Include="source\data_log_unittest.cc">
+      <Filter>source\_excluded_files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\thread_posix_unittest.cc">
+      <Filter>source\_excluded_files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

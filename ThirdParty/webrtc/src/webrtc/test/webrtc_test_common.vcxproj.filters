@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win">
+      <UniqueIdentifier>{47FC5EC4-15EB-E92F-89D7-AFE51CF838A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="call_test.cc"/>
+    <ClInclude Include="call_test.h"/>
+    <ClCompile Include="configurable_frame_size_encoder.cc"/>
+    <ClInclude Include="configurable_frame_size_encoder.h"/>
+    <ClCompile Include="direct_transport.cc"/>
+    <ClInclude Include="direct_transport.h"/>
+    <ClCompile Include="encoder_settings.cc"/>
+    <ClInclude Include="encoder_settings.h"/>
+    <ClCompile Include="fake_audio_device.cc"/>
+    <ClInclude Include="fake_audio_device.h"/>
+    <ClCompile Include="fake_decoder.cc"/>
+    <ClInclude Include="fake_decoder.h"/>
+    <ClCompile Include="fake_encoder.cc"/>
+    <ClInclude Include="fake_encoder.h"/>
+    <ClCompile Include="fake_network_pipe.cc"/>
+    <ClInclude Include="fake_network_pipe.h"/>
+    <ClCompile Include="frame_generator_capturer.cc"/>
+    <ClInclude Include="frame_generator_capturer.h"/>
+    <ClInclude Include="mock_transport.h"/>
+    <ClCompile Include="null_transport.cc"/>
+    <ClInclude Include="null_transport.h"/>
+    <ClInclude Include="rtp_rtcp_observer.h"/>
+    <ClInclude Include="run_loop.h"/>
+    <ClCompile Include="statistics.cc"/>
+    <ClInclude Include="statistics.h"/>
+    <ClCompile Include="vcm_capturer.cc"/>
+    <ClInclude Include="vcm_capturer.h"/>
+    <ClCompile Include="video_capturer.cc"/>
+    <ClInclude Include="video_capturer.h"/>
+    <ClCompile Include="win\run_loop_win.cc">
+      <Filter>win</Filter>
+    </ClCompile>
+    <None Include="webrtc_test_common.gyp"/>
+    <ClCompile Include="run_loop.cc">
+      <Filter>_excluded_files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="test\testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test\testsupport\gtest_prod_util.h">
+      <Filter>test\testsupport</Filter>
+    </ClInclude>
+    <None Include="common.gyp"/>
+  </ItemGroup>
+</Project>

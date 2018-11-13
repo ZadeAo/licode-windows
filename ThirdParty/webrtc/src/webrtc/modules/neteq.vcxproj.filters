@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq\interface">
+      <UniqueIdentifier>{D45E0FBD-84A7-45CA-36AC-7A06BD0C9BF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_coding\neteq">
+      <UniqueIdentifier>{63043B34-4CE1-686C-6C60-185032605FF4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="audio_coding\neteq\interface\neteq.h">
+      <Filter>audio_coding\neteq\interface</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\accelerate.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\accelerate.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\audio_classifier.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\audio_classifier.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\audio_decoder_impl.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\audio_decoder_impl.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\audio_multi_vector.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\audio_multi_vector.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\audio_vector.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\audio_vector.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\background_noise.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\background_noise.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\buffer_level_filter.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\buffer_level_filter.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\comfort_noise.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\comfort_noise.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\decision_logic.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\decision_logic.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\decision_logic_fax.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\decision_logic_fax.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\decision_logic_normal.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\decision_logic_normal.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\decoder_database.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\decoder_database.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_coding\neteq\defines.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\delay_manager.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\delay_manager.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\delay_peak_detector.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\delay_peak_detector.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\dsp_helper.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\dsp_helper.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\dtmf_buffer.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\dtmf_buffer.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\dtmf_tone_generator.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\dtmf_tone_generator.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\expand.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\expand.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\merge.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\merge.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\neteq_impl.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\neteq_impl.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\neteq.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_coding\neteq\statistics_calculator.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\statistics_calculator.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\normal.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\normal.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\packet_buffer.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\packet_buffer.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\payload_splitter.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\payload_splitter.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\post_decode_vad.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\post_decode_vad.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\preemptive_expand.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\preemptive_expand.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\random_vector.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\random_vector.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\rtcp.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\rtcp.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\sync_buffer.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\sync_buffer.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\timestamp_scaler.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\timestamp_scaler.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <ClCompile Include="audio_coding\neteq\time_stretch.cc">
+      <Filter>audio_coding\neteq</Filter>
+    </ClCompile>
+    <ClInclude Include="audio_coding\neteq\time_stretch.h">
+      <Filter>audio_coding\neteq</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(generate_gperfBeforeTargets)' == '' and '$(generate_gperfAfterTargets)' == '' and '$(ConfigurationType)' != 'Makefile'">
+    <generate_gperfBeforeTargets>Midl</generate_gperfBeforeTargets>
+    <generate_gperfAfterTargets>CustomBuild</generate_gperfAfterTargets>
+  </PropertyGroup>
+  <PropertyGroup>
+    <generate_gperfDependsOn Condition="'$(ConfigurationType)' != 'Makefile'">_SelectedFiles;$(generate_gperfDependsOn)</generate_gperfDependsOn>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <generate_gperf>
+      <CommandLineTemplate>call $(OutDir)genperf &quot;%(Identity)&quot; &quot;$(IntDir)third_party\yasm\%(Filename).c&quot;</CommandLineTemplate>
+      <Outputs>$(IntDir)third_party\yasm\%(Filename).c</Outputs>
+      <ExecutionDescription>yasm gperf for %(Identity)</ExecutionDescription>
+      <AdditionalDependencies>$(OutDir)genperf.exe</AdditionalDependencies>
+    </generate_gperf>
+  </ItemDefinitionGroup>
+  <PropertyGroup Condition="'$(generate_re2cBeforeTargets)' == '' and '$(generate_re2cAfterTargets)' == '' and '$(ConfigurationType)' != 'Makefile'">
+    <generate_re2cBeforeTargets>Midl</generate_re2cBeforeTargets>
+    <generate_re2cAfterTargets>CustomBuild</generate_re2cAfterTargets>
+  </PropertyGroup>
+  <PropertyGroup>
+    <generate_re2cDependsOn Condition="'$(ConfigurationType)' != 'Makefile'">_SelectedFiles;$(generate_re2cDependsOn)</generate_re2cDependsOn>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <generate_re2c>
+      <CommandLineTemplate>call $(OutDir)re2c &quot;-b&quot; &quot;-o&quot; &quot;$(IntDir)third_party\yasm\%(Filename).c&quot; &quot;%(Identity)&quot;</CommandLineTemplate>
+      <Outputs>$(IntDir)third_party\yasm\%(Filename).c</Outputs>
+      <ExecutionDescription>yasm re2c for %(Identity)</ExecutionDescription>
+      <AdditionalDependencies>$(OutDir)re2c.exe</AdditionalDependencies>
+    </generate_re2c>
+  </ItemDefinitionGroup>
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="audio_coding">
+      <UniqueIdentifier>{4FC456D3-9A0D-A421-757E-1167E51D693D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="audio_coding\audio_codec_speed_tests.isolate">
+      <Filter>audio_coding</Filter>
+    </None>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

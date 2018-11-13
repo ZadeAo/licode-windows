@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="session\media\bundlefilter_unittest.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClCompile Include="session\media\channel_unittest.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClCompile Include="session\media\channelmanager_unittest.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClCompile Include="session\media\currentspeakermonitor_unittest.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClCompile Include="session\media\mediarecorder_unittest.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClCompile Include="session\media\mediasession_unittest.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClCompile Include="session\media\rtcpmuxfilter_unittest.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClCompile Include="session\media\srtpfilter_unittest.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <None Include="libjingle_tests.gyp"/>
+  </ItemGroup>
+</Project>

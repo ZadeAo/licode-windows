@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session">
+      <UniqueIdentifier>{50DC728B-F2AA-5B75-01F3-558C0ACE0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="session\media">
+      <UniqueIdentifier>{2699B576-DA2C-16EE-9C4A-F0CAB500D719}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="session\media\audiomonitor.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\audiomonitor.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\bundlefilter.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\bundlefilter.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\channel.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\channel.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\channelmanager.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\channelmanager.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\currentspeakermonitor.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\currentspeakermonitor.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\mediamonitor.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\mediamonitor.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\mediarecorder.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\mediarecorder.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\mediasession.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\mediasession.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClInclude Include="session\media\mediasink.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\rtcpmuxfilter.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\rtcpmuxfilter.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\srtpfilter.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\srtpfilter.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClCompile Include="session\media\typingmonitor.cc">
+      <Filter>session\media</Filter>
+    </ClCompile>
+    <ClInclude Include="session\media\typingmonitor.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <ClInclude Include="session\media\voicechannel.h">
+      <Filter>session\media</Filter>
+    </ClInclude>
+    <None Include="libjingle.gyp"/>
+  </ItemGroup>
+</Project>

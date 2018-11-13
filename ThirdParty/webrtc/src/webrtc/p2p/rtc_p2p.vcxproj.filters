@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{DBBAC0A6-BB0A-CA51-45CC-DA4574B671E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="client">
+      <UniqueIdentifier>{D5E3C9B9-F4E5-9856-CE8C-F9B03683EBB9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="base\asyncstuntcpsocket.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\asyncstuntcpsocket.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\basicpacketsocketfactory.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\basicpacketsocketfactory.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="base\candidate.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="base\common.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\constants.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\constants.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\dtlstransportchannel.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\dtlstransportchannel.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\p2ptransport.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\p2ptransport.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\p2ptransportchannel.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\p2ptransportchannel.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="base\packetsocketfactory.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\port.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\port.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\portallocator.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\portallocator.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="base\portinterface.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\pseudotcp.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\pseudotcp.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\rawtransport.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\rawtransport.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\rawtransportchannel.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\rawtransportchannel.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\relayport.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\relayport.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\relayserver.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\relayserver.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\session.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\session.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\sessiondescription.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\sessiondescription.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="base\sessionid.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\stun.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\stun.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\stunport.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\stunport.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\stunrequest.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\stunrequest.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\stunserver.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\stunserver.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\tcpport.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\tcpport.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\transport.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\transport.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\transportchannel.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\transportchannel.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="base\transportchannelimpl.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\transportchannelproxy.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\transportchannelproxy.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\transportdescription.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\transportdescription.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\transportdescriptionfactory.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\transportdescriptionfactory.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="base\transportinfo.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\turnport.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\turnport.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClCompile Include="base\turnserver.cc">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClInclude Include="base\turnserver.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="base\udpport.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="client\autoportallocator.h">
+      <Filter>client</Filter>
+    </ClInclude>
+    <ClCompile Include="client\basicportallocator.cc">
+      <Filter>client</Filter>
+    </ClCompile>
+    <ClInclude Include="client\basicportallocator.h">
+      <Filter>client</Filter>
+    </ClInclude>
+    <ClCompile Include="client\connectivitychecker.cc">
+      <Filter>client</Filter>
+    </ClCompile>
+    <ClInclude Include="client\connectivitychecker.h">
+      <Filter>client</Filter>
+    </ClInclude>
+    <ClCompile Include="client\httpportallocator.cc">
+      <Filter>client</Filter>
+    </ClCompile>
+    <ClInclude Include="client\httpportallocator.h">
+      <Filter>client</Filter>
+    </ClInclude>
+    <ClCompile Include="client\socketmonitor.cc">
+      <Filter>client</Filter>
+    </ClCompile>
+    <ClInclude Include="client\socketmonitor.h">
+      <Filter>client</Filter>
+    </ClInclude>
+    <None Include="p2p.gyp"/>
+  </ItemGroup>
+</Project>

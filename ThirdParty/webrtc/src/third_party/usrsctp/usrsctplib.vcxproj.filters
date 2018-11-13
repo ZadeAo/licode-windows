@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet">
+      <UniqueIdentifier>{78481951-783D-8ACA-EA74-2F55823CB13D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet6">
+      <UniqueIdentifier>{F23084FC-A3F7-D1F3-24F5-A67350C8257C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib\netinet6">
+      <UniqueIdentifier>{F23084FC-A3F7-D1F3-24F5-A67350C8257C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="usrsctplib">
+      <UniqueIdentifier>{9E1DC74B-96E4-AE57-FDDD-EACC8E8223CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="usrsctplib\netinet\sctp.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_asconf.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_asconf.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_auth.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_auth.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_bsd_addr.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_bsd_addr.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_callout.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_callout.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_cc_functions.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_constants.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_crc32.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_crc32.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\netinet\sctp_header.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_indata.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_indata.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_input.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_input.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\netinet\sctp_lock_userspace.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\netinet\sctp_os.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\netinet\sctp_os_userspace.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_output.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_output.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_pcb.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_pcb.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_peeloff.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_peeloff.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\netinet\sctp_process_lock.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_sha1.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_sha1.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_ss_functions.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_structs.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_sysctl.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_sysctl.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_timer.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_timer.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\netinet\sctp_uio.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctp_userspace.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClCompile Include="usrsctplib\netinet\sctp_usrreq.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctp_var.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet\sctputil.c">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet\sctputil.h">
+      <Filter>usrsctplib\netinet</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\netinet6\sctp6_usrreq.c">
+      <Filter>usrsctplib\netinet6</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\netinet6\sctp6_var.h">
+      <Filter>usrsctplib\netinet6</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\user_atomic.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\user_environment.c">
+      <Filter>usrsctplib</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\user_environment.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\user_inpcb.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\user_ip6_var.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\user_ip_icmp.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\user_malloc.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\user_mbuf.c">
+      <Filter>usrsctplib</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\user_mbuf.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\user_queue.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\user_recv_thread.c">
+      <Filter>usrsctplib</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\user_recv_thread.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\user_route.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClCompile Include="usrsctplib\user_socket.c">
+      <Filter>usrsctplib</Filter>
+    </ClCompile>
+    <ClInclude Include="usrsctplib\user_socketvar.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\user_uma.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <ClInclude Include="usrsctplib\usrsctp.h">
+      <Filter>usrsctplib</Filter>
+    </ClInclude>
+    <None Include="usrsctp.gyp"/>
+  </ItemGroup>
+</Project>

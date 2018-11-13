@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="e2e_quality">
+      <UniqueIdentifier>{85178C42-42D1-09D9-F90B-947F3D4C9094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="e2e_quality\audio">
+      <UniqueIdentifier>{D4AF4849-65C6-75FE-2B6E-F6BD18C08214}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="e2e_quality\audio\audio_e2e_harness.cc">
+      <Filter>e2e_quality\audio</Filter>
+    </ClCompile>
+    <None Include="tools.gyp"/>
+  </ItemGroup>
+</Project>

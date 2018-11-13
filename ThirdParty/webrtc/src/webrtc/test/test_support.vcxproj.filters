@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport\mock">
+      <UniqueIdentifier>{7C4729C5-C564-467B-5ED9-492FD611B9BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport\mock">
+      <UniqueIdentifier>{7C4729C5-C564-467B-5ED9-492FD611B9BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="testsupport\fileutils.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClInclude Include="testsupport\fileutils.h">
+      <Filter>testsupport</Filter>
+    </ClInclude>
+    <ClCompile Include="testsupport\frame_reader.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClInclude Include="testsupport\frame_reader.h">
+      <Filter>testsupport</Filter>
+    </ClInclude>
+    <ClCompile Include="testsupport\frame_writer.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClInclude Include="testsupport\frame_writer.h">
+      <Filter>testsupport</Filter>
+    </ClInclude>
+    <ClInclude Include="testsupport\gtest_disable.h">
+      <Filter>testsupport</Filter>
+    </ClInclude>
+    <ClInclude Include="testsupport\mock\mock_frame_reader.h">
+      <Filter>testsupport\mock</Filter>
+    </ClInclude>
+    <ClInclude Include="testsupport\mock\mock_frame_writer.h">
+      <Filter>testsupport\mock</Filter>
+    </ClInclude>
+    <ClCompile Include="testsupport\packet_reader.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClInclude Include="testsupport\packet_reader.h">
+      <Filter>testsupport</Filter>
+    </ClInclude>
+    <ClCompile Include="testsupport\perf_test.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClInclude Include="testsupport\perf_test.h">
+      <Filter>testsupport</Filter>
+    </ClInclude>
+    <ClCompile Include="testsupport\trace_to_stderr.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClInclude Include="testsupport\trace_to_stderr.h">
+      <Filter>testsupport</Filter>
+    </ClInclude>
+    <None Include="test.gyp"/>
+    <None Include="testsupport\iosfileutils.mm">
+      <Filter>testsupport\_excluded_files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="video_capture">
+      <UniqueIdentifier>{4B7FF314-53CA-0BFA-87CB-AF5356840C7E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="video_capture\video_capture_tests.isolate">
+      <Filter>video_capture</Filter>
+    </None>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

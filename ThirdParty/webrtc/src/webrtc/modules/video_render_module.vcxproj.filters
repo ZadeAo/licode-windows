@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="video_render">
+      <UniqueIdentifier>{B3A89D54-9B83-6481-B0DC-AC5B63958E23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render\external">
+      <UniqueIdentifier>{323CF671-16D1-0362-1BD3-4E39441797F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render">
+      <UniqueIdentifier>{B3A89D54-9B83-6481-B0DC-AC5B63958E23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render\external">
+      <UniqueIdentifier>{323CF671-16D1-0362-1BD3-4E39441797F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render">
+      <UniqueIdentifier>{B3A89D54-9B83-6481-B0DC-AC5B63958E23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render">
+      <UniqueIdentifier>{B3A89D54-9B83-6481-B0DC-AC5B63958E23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render">
+      <UniqueIdentifier>{B3A89D54-9B83-6481-B0DC-AC5B63958E23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="video_render">
+      <UniqueIdentifier>{B3A89D54-9B83-6481-B0DC-AC5B63958E23}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="video_render\external\video_render_external_impl.cc">
+      <Filter>video_render\external</Filter>
+    </ClCompile>
+    <ClInclude Include="video_render\external\video_render_external_impl.h">
+      <Filter>video_render\external</Filter>
+    </ClInclude>
+    <ClInclude Include="video_render\i_video_render.h">
+      <Filter>video_render</Filter>
+    </ClInclude>
+    <ClInclude Include="video_render\include\video_render.h">
+      <Filter>video_render\include</Filter>
+    </ClInclude>
+    <ClInclude Include="video_render\include\video_render_defines.h">
+      <Filter>video_render\include</Filter>
+    </ClInclude>
+    <ClInclude Include="video_render\video_render_impl.h">
+      <Filter>video_render</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

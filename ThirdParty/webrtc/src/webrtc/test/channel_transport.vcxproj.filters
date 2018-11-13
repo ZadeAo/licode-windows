@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="channel_transport\channel_transport.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\include\channel_transport.h">
+      <Filter>channel_transport\include</Filter>
+    </ClInclude>
+    <ClCompile Include="channel_transport\traffic_control_win.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\traffic_control_win.h">
+      <Filter>channel_transport</Filter>
+    </ClInclude>
+    <ClCompile Include="channel_transport\udp_socket_manager_wrapper.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\udp_socket_manager_wrapper.h">
+      <Filter>channel_transport</Filter>
+    </ClInclude>
+    <ClCompile Include="channel_transport\udp_socket_wrapper.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\udp_socket_wrapper.h">
+      <Filter>channel_transport</Filter>
+    </ClInclude>
+    <ClCompile Include="channel_transport\udp_socket2_manager_win.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\udp_socket2_manager_win.h">
+      <Filter>channel_transport</Filter>
+    </ClInclude>
+    <ClCompile Include="channel_transport\udp_socket2_win.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\udp_socket2_win.h">
+      <Filter>channel_transport</Filter>
+    </ClInclude>
+    <ClInclude Include="channel_transport\udp_transport.h">
+      <Filter>channel_transport</Filter>
+    </ClInclude>
+    <ClCompile Include="channel_transport\udp_transport_impl.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\udp_transport_impl.h">
+      <Filter>channel_transport</Filter>
+    </ClInclude>
+    <None Include="test.gyp"/>
+    <ClCompile Include="channel_transport\udp_socket_manager_posix.cc">
+      <Filter>channel_transport\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\udp_socket_manager_posix.h">
+      <Filter>channel_transport\_excluded_files</Filter>
+    </ClInclude>
+    <ClCompile Include="channel_transport\udp_socket_posix.cc">
+      <Filter>channel_transport\_excluded_files</Filter>
+    </ClCompile>
+    <ClInclude Include="channel_transport\udp_socket_posix.h">
+      <Filter>channel_transport\_excluded_files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

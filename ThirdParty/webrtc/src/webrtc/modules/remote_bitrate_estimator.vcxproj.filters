@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="remote_bitrate_estimator\include\bwe_defines.h">
+      <Filter>remote_bitrate_estimator\include</Filter>
+    </ClInclude>
+    <ClInclude Include="remote_bitrate_estimator\include\remote_bitrate_estimator.h">
+      <Filter>remote_bitrate_estimator\include</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\aimd_rate_control.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\aimd_rate_control.h">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\inter_arrival.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\inter_arrival.h">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\mimd_rate_control.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\mimd_rate_control.h">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\overuse_detector.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\overuse_detector.h">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\overuse_estimator.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\overuse_estimator.h">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\rate_statistics.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\rate_statistics.h">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\remote_bitrate_estimator_abs_send_time.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClCompile Include="remote_bitrate_estimator\remote_bitrate_estimator_single_stream.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClCompile Include="remote_bitrate_estimator\remote_rate_control.cc">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\remote_rate_control.h">
+      <Filter>remote_bitrate_estimator</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\bwe_test_logging.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\bwe_test_logging.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

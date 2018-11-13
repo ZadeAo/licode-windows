@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="examples">
+      <UniqueIdentifier>{44436D1D-970F-7E02-EDA1-3A8DAD062A99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples\stunserver">
+      <UniqueIdentifier>{6DE08A77-802A-195F-4564-EEBFD6758F88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="examples\stunserver\stunserver_main.cc">
+      <Filter>examples\stunserver</Filter>
+    </ClCompile>
+    <None Include="libjingle_examples.gyp"/>
+  </ItemGroup>
+</Project>

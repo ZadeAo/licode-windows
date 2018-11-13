@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport\mac">
+      <UniqueIdentifier>{DDBFF7CF-DBCF-B2FC-793A-DB701B563E8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport\mac\_excluded_files">
+      <UniqueIdentifier>{158E591E-B6EA-0C85-8F5A-18EAFA09B4CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="test.gyp"/>
+    <ClInclude Include="testsupport\mac\run_threaded_main_mac.h">
+      <Filter>testsupport\mac\_excluded_files</Filter>
+    </ClInclude>
+    <None Include="testsupport\mac\run_threaded_main_mac.mm">
+      <Filter>testsupport\mac\_excluded_files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

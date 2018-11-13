@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="channel_transport">
+      <UniqueIdentifier>{A74822E1-DEF0-FDBC-8E10-735794BA24FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="testsupport">
+      <UniqueIdentifier>{9E6985F0-DCE6-B9A8-E23C-B078E896A11E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="channel_transport\udp_transport_unittest.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClCompile Include="channel_transport\udp_socket_manager_unittest.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClCompile Include="channel_transport\udp_socket_wrapper_unittest.cc">
+      <Filter>channel_transport</Filter>
+    </ClCompile>
+    <ClCompile Include="testsupport\always_passing_unittest.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClInclude Include="testsupport\unittest_utils.h">
+      <Filter>testsupport</Filter>
+    </ClInclude>
+    <ClCompile Include="testsupport\fileutils_unittest.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClCompile Include="testsupport\frame_reader_unittest.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClCompile Include="testsupport\frame_writer_unittest.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClCompile Include="testsupport\packet_reader_unittest.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <ClCompile Include="testsupport\perf_test_unittest.cc">
+      <Filter>testsupport</Filter>
+    </ClCompile>
+    <None Include="test.gyp"/>
+  </ItemGroup>
+</Project>

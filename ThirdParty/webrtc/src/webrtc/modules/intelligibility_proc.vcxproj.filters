@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="audio_processing">
+      <UniqueIdentifier>{56B88925-734A-08EA-8306-74393ACBB4AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="audio_processing\intelligibility">
+      <UniqueIdentifier>{0CB4AB50-37FC-E785-0090-AC5123CB4571}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="audio_processing\intelligibility\intelligibility_proc.cc">
+      <Filter>audio_processing\intelligibility</Filter>
+    </ClCompile>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>

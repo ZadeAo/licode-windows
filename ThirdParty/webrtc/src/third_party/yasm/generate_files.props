@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(generate_gperfBeforeTargets)' == '' and '$(generate_gperfAfterTargets)' == '' and '$(ConfigurationType)' != 'Makefile'">
+    <generate_gperfBeforeTargets>Midl</generate_gperfBeforeTargets>
+    <generate_gperfAfterTargets>CustomBuild</generate_gperfAfterTargets>
+  </PropertyGroup>
+  <PropertyGroup>
+    <generate_gperfDependsOn Condition="'$(ConfigurationType)' != 'Makefile'">_SelectedFiles;$(generate_gperfDependsOn)</generate_gperfDependsOn>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <generate_gperf>
+      <CommandLineTemplate>call $(OutDir)genperf &quot;%(Identity)&quot; &quot;$(OutDir)obj\global_intermediate\third_party\yasm\%(Filename).c&quot;</CommandLineTemplate>
+      <Outputs>$(OutDir)obj\global_intermediate\third_party\yasm\%(Filename).c</Outputs>
+      <ExecutionDescription>yasm genperf for %(Identity)</ExecutionDescription>
+      <AdditionalDependencies>$(OutDir)genperf.exe</AdditionalDependencies>
+    </generate_gperf>
+  </ItemDefinitionGroup>
+</Project>

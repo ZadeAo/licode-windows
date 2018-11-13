@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator">
+      <UniqueIdentifier>{3DB390FF-BC4A-DF77-CA3F-0B9EC8BF5CFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test">
+      <UniqueIdentifier>{5763B17F-46DA-9ED7-179F-9C9F273B791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="remote_bitrate_estimator\test\estimators">
+      <UniqueIdentifier>{978C71E3-39EA-747F-8485-0EC6D9F6508B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="remote_bitrate_estimator\test\bwe.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\bwe.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\bwe_test.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\bwe_test.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\bwe_test_baselinefile.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\bwe_test_baselinefile.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\bwe_test_fileutils.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\bwe_test_fileutils.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\bwe_test_framework.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\bwe_test_framework.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\bwe_test_framework_unittest.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClCompile Include="remote_bitrate_estimator\test\bwe_test_logging.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\bwe_test_logging.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\packet_receiver.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\packet_receiver.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\packet_sender.cc">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\packet_sender.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClInclude Include="remote_bitrate_estimator\test\packet.h">
+      <Filter>remote_bitrate_estimator\test</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\estimators\nada.cc">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\estimators\nada.h">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\estimators\nada_unittest.cc">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClCompile>
+    <ClCompile Include="remote_bitrate_estimator\test\estimators\remb.cc">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\estimators\remb.h">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\estimators\send_side.cc">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\estimators\send_side.h">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClInclude>
+    <ClCompile Include="remote_bitrate_estimator\test\estimators\tcp.cc">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClCompile>
+    <ClInclude Include="remote_bitrate_estimator\test\estimators\tcp.h">
+      <Filter>remote_bitrate_estimator\test\estimators</Filter>
+    </ClInclude>
+    <None Include="modules.gyp"/>
+  </ItemGroup>
+</Project>
