@@ -8331,7 +8331,7 @@ out_dir = ""
 if len(sys.argv) > 1:
   out_dir = sys.argv[1]
 
-output_groups(file(os.path.join(out_dir, "x86insns.c"), "wt"))
-output_gas_insns(file(os.path.join(out_dir, "x86insn_gas.gperf"), "wt"))
-output_nasm_insns(file(os.path.join(out_dir, "x86insn_nasm.gperf"), "wt"))
+output_groups(open(os.path.join(out_dir, "x86insns.c"), "wt"))
+output_gas_insns(open(os.path.join(out_dir, "x86insn_gas.gperf"), "wt"))
+output_nasm_insns(open(os.path.join(out_dir, "x86insn_nasm.gperf"), "wt"))
 

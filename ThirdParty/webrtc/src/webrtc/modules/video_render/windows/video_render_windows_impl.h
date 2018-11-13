@@ -12,7 +12,7 @@
 #define WEBRTC_MODULES_VIDEO_RENDER_MAIN_SOURCE_WINDOWS_VIDEO_RENDER_WINDOWS_IMPL_H_
 
 #include <Winerror.h>
-#include <dxdiag.h>
+// #include <dxdiag.h>
 
 #include "webrtc/modules/video_render/i_video_render.h"
 #include "webrtc/modules/video_render/windows/i_video_render_win.h"
