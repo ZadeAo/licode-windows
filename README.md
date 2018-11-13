@@ -3,5 +3,11 @@ licode windows server and client
 
 only for study!
 
-maybe you need webrtc code : 链接:https://pan.baidu.com/s/1nvaRyrf 提取码:ftd5
+fork from https://github.com/harvestsure/licode-windows
+
+install python
+install vs2017
+build webrtc in thirdparty
+run runfirst.bat
+build server and client
 
