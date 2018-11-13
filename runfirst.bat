@@ -7,6 +7,6 @@ set evname=SFUChat
 set evnpath=%~dp0
 reg add "%regpath%" /v %evname% /d %evnpath% /f
 set evname=WEBRTC13
-set evnpath=%~dp0ThirdParty\webrtc\src
+set evnpath=%~dp0ThirdParty\webrtc\src\
 reg add "%regpath%" /v %evname% /d %evnpath% /f
 pause>nul
