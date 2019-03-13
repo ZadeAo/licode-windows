@@ -9,6 +9,8 @@ install python
 
 install vs2017
 
+download and compile boost，config inlcude in vs2017
+
 build webrtc in thirdparty
 
 run runfirst.bat
